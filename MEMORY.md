@@ -230,3 +230,11 @@ active_step: complete
 awaiting: none
 first_win_candidate: log_jornada_setup
 first_win_artifact: content/drafts/log-jornada-setup-2026-07-03.md
+first_win_completed=true
+first_win_type: log_jornada_setup
+first_win_artifact: content/drafts/log-jornada-setup-2026-07-03.md
+feedback_artifact: content/drafts/feedback-jornada-setup-2026-07-03.md
+onboarding_complete=true
+active_wizard: none
+active_step: complete
+awaiting: none
