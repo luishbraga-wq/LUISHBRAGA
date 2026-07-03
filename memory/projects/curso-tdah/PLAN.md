@@ -14,6 +14,7 @@ Construir um curso robusto sobre TDAH para uso pessoal/profissional de Henrique,
 - [ ] Atualizar conteúdo com diretrizes pós-2008.
 - [ ] Criar slides/aula por módulo, se solicitado.
 - [x] Criar material de pontos práticos para psiquiatria clínica diária.
+- [x] Criar apostila nova fiel à estrutura do manual de Barkley, capítulo por capítulo, em linguagem própria e respeitando copyright.
 - [ ] Criar banco de casos clínicos.
 - [ ] Criar versão pericial específica para TDAH.
 
@@ -23,6 +24,9 @@ Construir um curso robusto sobre TDAH para uso pessoal/profissional de Henrique,
 - `content/cursos/tdah-barkley/cronograma-12-semanas.md`
 - `content/cursos/tdah-barkley/materiais-praticos.md`
 - `content/cursos/tdah-barkley/pontos-praticos-psiquiatria-clinica.md`
+- `content/cursos/tdah-barkley/completo/curso-novo-completo-tdah-barkley-fiel-ao-manual.md`
+- `content/cursos/tdah-barkley/pdf/curso-novo-completo-tdah-barkley-fiel-ao-manual.html`
+- `content/cursos/tdah-barkley/pdf/curso-novo-completo-tdah-barkley-fiel-ao-manual.pdf`
 - `content/references/psiquiatria/TDAH_Barkley_Manual.pdf`
 
 ## Próximas tarefas sugeridas
@@ -61,3 +65,5 @@ Construir um curso robusto sobre TDAH para uso pessoal/profissional de Henrique,
 ## Estado atual
 
 Ementa, cronograma e materiais práticos iniciais criados.
+
+Em 2026-07-03, criada apostila nova de estudo pessoal fiel à sequência temática do manual de Barkley, em linguagem própria, com 22 capítulos, apêndices de roteiro clínico, aplicação ocupacional/pericial, casos clínicos originais e perguntas de revisão. Gerados Markdown, HTML e PDF com o nome `curso-novo-completo-tdah-barkley-fiel-ao-manual`.
