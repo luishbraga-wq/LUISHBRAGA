@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TDAH — Autorregulação</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #111; }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    font-family: "DejaVu Sans", Arial, sans-serif;
+    color: white;
+    background: url("tdah-homem-cansado-background.png") center/cover no-repeat;
+  }
+  .card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(180deg, rgba(0,0,0,.16), rgba(0,0,0,.52)),
+      linear-gradient(90deg, rgba(0,0,0,.28), rgba(0,0,0,.03));
+  }
+  .top {
+    position: absolute;
+    left: 78px;
+    top: 72px;
+    font-size: 35px;
+    font-weight: 800;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: rgba(245,247,250,.94);
+  }
+  .line {
+    position: absolute;
+    left: 78px;
+    top: 130px;
+    width: 330px;
+    height: 10px;
+    border-radius: 999px;
+    background: #e9ad43;
+  }
+  .box {
+    position: absolute;
+    left: 70px;
+    right: 70px;
+    bottom: 88px;
+    padding: 42px 48px 46px;
+    border-radius: 34px;
+    background: rgba(0,0,0,.42);
+    backdrop-filter: blur(2px);
+    box-shadow: 0 20px 70px rgba(0,0,0,.35);
+  }
+  .quote {
+    font-size: 50px;
+    line-height: 1.18;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    text-wrap: balance;
+  }
+  .quote span {
+    color: #f0b653;
+  }
+  .footer {
+    margin-top: 28px;
+    font-size: 28px;
+    line-height: 1.2;
+    color: rgba(255,255,255,.82);
+  }
+</style>
+</head>
+<body>
+  <main class="card" id="card">
+    <div class="top">TDAH na prática clínica</div>
+    <div class="line"></div>
+    <section class="box">
+      <div class="quote">
+        TDAH não é simplesmente dificuldade de prestar atenção. É dificuldade de regular <span>comportamento, atenção, esforço, tempo, emoção e ação</span> em direção a metas.
+      </div>
+      <div class="footer">Dr. Luís Henrique Braga Gomes • Psiquiatria</div>
+    </section>
+  </main>
+</body>
+</html>
