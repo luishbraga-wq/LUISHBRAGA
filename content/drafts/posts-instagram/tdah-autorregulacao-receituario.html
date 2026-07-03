@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TDAH — Autorregulação</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #e9eef0; }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    font-family: "DejaVu Sans", Arial, sans-serif;
+    color: #17313a;
+    background: #eef4f5;
+  }
+  .paper {
+    position: absolute;
+    width: 800px;
+    height: 1131px;
+    right: -72px;
+    top: -28px;
+    background: url("receituarioA4-render.png") center/cover no-repeat;
+    transform: rotate(1.2deg);
+    box-shadow: 0 26px 70px rgba(15,49,58,.20);
+    opacity: .62;
+    filter: blur(2.2px) saturate(.85);
+  }
+  .veil {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(90deg, rgba(238,244,245,.96) 0%, rgba(238,244,245,.92) 46%, rgba(238,244,245,.58) 100%),
+      radial-gradient(circle at 85% 20%, rgba(49,130,146,.12), transparent 38%);
+  }
+  .brand-line {
+    position: absolute;
+    left: 76px;
+    top: 80px;
+    width: 315px;
+    height: 9px;
+    border-radius: 999px;
+    background: #2f8292;
+  }
+  .top {
+    position: absolute;
+    left: 76px;
+    top: 110px;
+    font-size: 33px;
+    font-weight: 800;
+    letter-spacing: .075em;
+    text-transform: uppercase;
+    color: #2f8292;
+  }
+  .quote {
+    position: absolute;
+    left: 76px;
+    top: 216px;
+    width: 730px;
+    font-size: 54px;
+    line-height: 1.08;
+    font-weight: 850;
+    letter-spacing: -0.04em;
+    color: #17313a;
+  }
+  .quote span { color: #2f8292; }
+  .note {
+    position: absolute;
+    left: 76px;
+    bottom: 105px;
+    width: 665px;
+    padding: 24px 28px;
+    border-left: 8px solid #2f8292;
+    background: rgba(255,255,255,.72);
+    border-radius: 18px;
+    font-size: 30px;
+    line-height: 1.22;
+    color: #24434a;
+    box-shadow: 0 12px 38px rgba(15,49,58,.09);
+  }
+  .footer {
+    position: absolute;
+    left: 76px;
+    bottom: 54px;
+    font-size: 26px;
+    color: rgba(23,49,58,.78);
+  }
+</style>
+</head>
+<body>
+  <main class="card">
+    <div class="paper"></div>
+    <div class="veil"></div>
+    <div class="brand-line"></div>
+    <div class="top">TDAH na prática clínica</div>
+    <div class="quote">
+      TDAH não é simplesmente dificuldade de prestar atenção. É dificuldade de regular <span>comportamento, atenção, esforço, tempo, emoção e ação</span> em direção às metas.
+    </div>
+    <div class="note">O núcleo clínico não é “falta de vontade”: é prejuízo persistente de autorregulação com impacto funcional real.</div>
+    <div class="footer">Dr. Luís Henrique Braga Gomes • Psiquiatria</div>
+  </main>
+</body>
+</html>
