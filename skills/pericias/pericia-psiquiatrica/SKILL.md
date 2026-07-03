@@ -67,3 +67,4 @@ Leia quando necessário:
 - `references/quesitos.md` — modelo para organizar respostas a quesitos.
 - `references/prompts.md` — prompts seguros para uso recorrente.
 - `references/trabalhista.md` — perícias trabalhistas: nexo, incapacidade, dano psíquico, burnout, assédio moral e quesitos.
+- `references/civel-capacidade-civil.md` — perícias cíveis: curatela, interdição, levantamento, revisão, TDA e capacidade civil.
