@@ -222,3 +222,9 @@ tavily_plugin_activation_blocked=pairing_required_or_protected_config
 active_wizard: wizard-conectar
 active_step: tavily_manual_activation
 awaiting: run_openclaw_configure_section_web_or_confirm_search_ok
+tavily_plugin_enabled=true
+web_search_provider: tavily
+conectado: true
+active_wizard: wizard-conectar
+active_step: complete
+awaiting: none
