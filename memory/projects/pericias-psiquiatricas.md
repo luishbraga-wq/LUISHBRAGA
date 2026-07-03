@@ -23,3 +23,10 @@ Nunca usar dados identificáveis de periciandos no workspace. Casos concretos de
 ## Modelos adicionais
 
 - `content/templates/pericias/modelo-laudo-trabalhista-sanitizado.md` — modelo geral sanitizado de laudo/parecer trabalhista, útil para adaptar estruturas antigas sem manter dados identificáveis.
+
+## Perícias administrativas/funcionais
+
+Criada referência para pareceres psiquiátricos em contexto administrativo-funcional: junta médica, servidor público, aposentadoria por incapacidade, readaptação, nexo funcional e análise crítica de laudos administrativos.
+
+- Referência: `skills/pericias/pericia-psiquiatrica/references/administrativa-funcional.md`
+- Template: `content/templates/pericias/parecer-administrativo-funcional-psiquiatrico.md`

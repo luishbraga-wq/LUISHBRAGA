@@ -68,3 +68,4 @@ Leia quando necessário:
 - `references/prompts.md` — prompts seguros para uso recorrente.
 - `references/trabalhista.md` — perícias trabalhistas: nexo, incapacidade, dano psíquico, burnout, assédio moral e quesitos.
 - `references/civel-capacidade-civil.md` — perícias cíveis: curatela, interdição, levantamento, revisão, TDA e capacidade civil.
+- `references/administrativa-funcional.md` — perícias administrativas/funcionais: junta médica, servidor público, aposentadoria, readaptação, nexo funcional e análise de laudos administrativos.
