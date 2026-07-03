@@ -28,3 +28,12 @@ Construir curso robusto de psiquiatria forense baseado na estrutura temática de
 ## Observação
 
 Não subir o PDF do livro ao GitHub. Gerar apenas materiais autorais/sintéticos.
+
+## Expansão completa
+
+Criada versão cobrindo todos os 38 capítulos/temas do Taborda em material autoral aplicado.
+
+- `content/cursos/psiquiatria-forense-taborda/curso-completo-38-capitulos-taborda.md`
+- `content/cursos/psiquiatria-forense-taborda/pdf/curso-completo-38-capitulos-taborda.pdf`
+
+Observação: cobre a estrutura completa do livro sem reproduzir texto protegido.
