@@ -10,12 +10,14 @@ Construir aulas autorais e materiais práticos de medicina legal a partir do liv
 
 - Referência local: `content/references/medicina-legal/Medicina Legal - Genival Veloso de Franca.pdf`
 - Aula Cap. 18: `content/cursos/medicina-legal-genival/aula-cap18-imputabilidade-penal-capacidade-civil.md`
+- Aula robusta Cap. 18: `content/cursos/medicina-legal-genival/aula-robusta-cap18-imputabilidade-capacidade-civil.md`
 
 ## Tarefas
 
 - [x] Baixar e registrar o livro.
 - [x] Identificar estrutura geral.
 - [x] Criar aula do capítulo 18.
+- [x] Criar aula robusta e aplicada do capítulo 18 para uso em perícias.
 - [ ] Criar checklist de laudo penal.
 - [ ] Criar checklist de capacidade civil.
 - [ ] Criar modelo de entrevista pericial para imputabilidade.
