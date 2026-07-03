@@ -26,3 +26,18 @@ Construir aulas autorais e materiais práticos de medicina legal a partir do liv
 ## Observações
 
 Material deve ser autoral/sintético, sem reprodução extensa do livro protegido por direitos autorais.
+
+## Minissérie Capítulo 18
+
+Criada minissérie em 6 episódios sobre Imputabilidade Penal e Capacidade Civil.
+
+Arquivos:
+
+- `content/cursos/medicina-legal-genival/minisserie-cap18/README.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/episodio-01-conceitos-centrais.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/episodio-02-penal-vs-civil.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/episodio-03-transtornos-impacto-forense.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/episodio-04-entrevista-eem-forense.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/episodio-05-conclusao-laudo-quesitos.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/episodio-06-casos-praticos.md`
+- `content/cursos/medicina-legal-genival/minisserie-cap18/guia-producao.md`
