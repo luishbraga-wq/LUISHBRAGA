@@ -19,3 +19,7 @@ Nunca usar dados identificáveis de periciandos no workspace. Casos concretos de
 - Template específico para previdenciária/incapacidade
 - Banco de quesitos frequentes
 - Rubrica de consistência documental
+
+## Modelos adicionais
+
+- `content/templates/pericias/modelo-laudo-trabalhista-sanitizado.md` — modelo geral sanitizado de laudo/parecer trabalhista, útil para adaptar estruturas antigas sem manter dados identificáveis.
