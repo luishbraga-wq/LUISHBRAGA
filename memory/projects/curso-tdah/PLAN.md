@@ -13,6 +13,7 @@ Construir um curso robusto sobre TDAH para uso pessoal/profissional de Henrique,
 - [x] Materiais práticos iniciais criados.
 - [ ] Atualizar conteúdo com diretrizes pós-2008.
 - [ ] Criar slides/aula por módulo, se solicitado.
+- [x] Criar material de pontos práticos para psiquiatria clínica diária.
 - [ ] Criar banco de casos clínicos.
 - [ ] Criar versão pericial específica para TDAH.
 
@@ -21,6 +22,7 @@ Construir um curso robusto sobre TDAH para uso pessoal/profissional de Henrique,
 - `content/cursos/tdah-barkley/curso-tdah-robusto.md`
 - `content/cursos/tdah-barkley/cronograma-12-semanas.md`
 - `content/cursos/tdah-barkley/materiais-praticos.md`
+- `content/cursos/tdah-barkley/pontos-praticos-psiquiatria-clinica.md`
 - `content/references/psiquiatria/TDAH_Barkley_Manual.pdf`
 
 ## Próximas tarefas sugeridas
