@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TDAH — Autorregulação</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #0a1014; }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+    font-family: "DejaVu Sans", Arial, sans-serif;
+    background: #f3f6f5;
+    color: #14323a;
+  }
+  .left {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 62%;
+    height: 100%;
+    background: url("tdah-cerebro-background.png") center/cover no-repeat;
+  }
+  .left::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(180deg, rgba(0,0,0,.26), rgba(0,0,0,.68)),
+      linear-gradient(90deg, rgba(0,0,0,.16), rgba(0,0,0,.46));
+  }
+  .right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 49%;
+    height: 100%;
+    background: #f4f7f6;
+    padding: 70px 54px 54px 62px;
+    border-top-left-radius: 48px;
+    border-bottom-left-radius: 48px;
+    box-shadow: -18px 0 60px rgba(0,0,0,.18);
+  }
+  .tag {
+    color: #2f8292;
+    font-weight: 850;
+    font-size: 28px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+  .line {
+    width: 220px;
+    height: 9px;
+    background: #2f8292;
+    border-radius: 999px;
+    margin-bottom: 54px;
+  }
+  .title {
+    font-size: 47px;
+    line-height: 1.04;
+    letter-spacing: -0.045em;
+    font-weight: 900;
+    margin-bottom: 28px;
+  }
+  .title span { color: #2f8292; }
+  .quote {
+    font-size: 29px;
+    line-height: 1.25;
+    color: #25464d;
+    font-weight: 650;
+    margin-bottom: 34px;
+  }
+  .box {
+    border-left: 8px solid #2f8292;
+    background: #ffffff;
+    border-radius: 18px;
+    padding: 22px 24px;
+    font-size: 25px;
+    line-height: 1.24;
+    color: #294a51;
+    box-shadow: 0 14px 36px rgba(20,50,58,.10);
+  }
+  .footer {
+    position: absolute;
+    left: 62px;
+    bottom: 54px;
+    font-size: 30px;
+    font-weight: 850;
+    color: #14323a;
+  }
+  .subfooter {
+    position: absolute;
+    left: 62px;
+    bottom: 28px;
+    font-size: 22px;
+    color: rgba(20,50,58,.66);
+  }
+</style>
+</head>
+<body>
+  <main class="card">
+    <section class="left"></section>
+    <section class="right">
+      <div class="tag">TDAH na prática clínica</div>
+      <div class="line"></div>
+      <div class="title">TDAH não é só <span>falta de foco</span>.</div>
+      <div class="quote">
+        É dificuldade de regular comportamento, atenção, esforço, tempo, emoção e ação em direção às metas.
+      </div>
+      <div class="box">
+        O núcleo clínico é o prejuízo persistente de autorregulação com impacto funcional real.
+      </div>
+      <div class="footer">Dr. Luís Henrique Gomes</div>
+      <div class="subfooter">Psiquiatra</div>
+    </section>
+  </main>
+</body>
+</html>
