@@ -207,3 +207,18 @@ active_wizard: wizard-conectar
 active_step: pergunta_ancora
 awaiting: conectar_anchor_answer
 conectado: partial
+active_wizard: wizard-conectar
+active_step: tavily_key
+awaiting: tavily_api_key_or_pula
+search_provider_choice: tavily
+tavily_key_validated=true
+search_provider_choice: tavily
+search_api_active=true
+active_wizard: wizard-conectar
+active_step: configure_tavily_openclaw
+awaiting: tavily_plugin_activation
+tavily_key_saved_env=true
+tavily_plugin_activation_blocked=pairing_required_or_protected_config
+active_wizard: wizard-conectar
+active_step: tavily_manual_activation
+awaiting: run_openclaw_configure_section_web_or_confirm_search_ok
