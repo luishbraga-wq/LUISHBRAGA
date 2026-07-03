@@ -46,3 +46,10 @@ Arquivos:
 
 - `content/cursos/psiquiatria-forense-taborda/curso-operacional-pareceres-forenses-taborda.md`
 - `content/cursos/psiquiatria-forense-taborda/pdf/curso-operacional-pareceres-forenses-taborda.pdf`
+
+## Curso modular por tipo de parecer
+
+Criada versão por módulos de parecer, a pedido de Henrique: penal, cível, previdenciário/administrativo, trabalhista/ocupacional, dano psíquico, análise crítica de laudo, simulação/consistência e quesitos/conclusão.
+
+- `content/cursos/psiquiatria-forense-taborda/curso-modular-pareceres-forenses.md`
+- `content/cursos/psiquiatria-forense-taborda/pdf/curso-modular-pareceres-forenses.pdf`
