@@ -238,3 +238,6 @@ onboarding_complete=true
 active_wizard: none
 active_step: complete
 awaiting: none
+whisper_configured=true
+whisper_last_smoke_test=success
+whisper_last_transcript: Ok.
