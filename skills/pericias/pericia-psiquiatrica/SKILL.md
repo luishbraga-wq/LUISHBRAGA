@@ -66,3 +66,4 @@ Leia quando necessário:
 - `references/estrutura-laudo.md` — estrutura geral de laudo pericial psiquiátrico.
 - `references/quesitos.md` — modelo para organizar respostas a quesitos.
 - `references/prompts.md` — prompts seguros para uso recorrente.
+- `references/trabalhista.md` — perícias trabalhistas: nexo, incapacidade, dano psíquico, burnout, assédio moral e quesitos.
