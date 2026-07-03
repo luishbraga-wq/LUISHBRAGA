@@ -199,3 +199,11 @@ github_token_saved_env=true
 active_wizard: wizard-conectar
 active_step: backup_workspace_github
 awaiting: backup_workspace_activation
+backup_active: true
+backup_repo_url: https://github.com/luishbraga-wq/LUISHBRAGA.git
+backup_cron_job_id: 02bf0d33-1e19-4f8a-bf2d-235147514833
+backup_cron_schedule: daily 03:00 America/Bahia
+active_wizard: wizard-conectar
+active_step: pergunta_ancora
+awaiting: conectar_anchor_answer
+conectado: partial
