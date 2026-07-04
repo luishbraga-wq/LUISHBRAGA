@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-03T22:21:19.066Z",
+  "entries": {
+    "memory:memory/2026-07-03.md:108:113": {
+      "key": "memory:memory/2026-07-03.md:108:113",
+      "path": "memory/2026-07-03.md",
+      "startLine": 108,
+      "endLine": 113,
+      "source": "memory",
+      "snippet": "- A aula do Cap. 18 foi transformada em minissérie de 6 roteiros em `content/cursos/medicina-legal-genival/minisserie-cap18/`: conceitos centrais; penal vs civil; transtornos e impacto forense; entrevista/EEM; conclusão/laudo/quesitos; casos práticos; mais `guia-producao.md`. Vídeos-slide WebM foram tentados, mas Henrique não gostou do resultado. - Após rejeição dos vídeos, Henrique pediu “curso em PDF com material robusto para estudar o capítulo 18”. Foi gerado PDF autoral `curso-robusto-cap18-imputabilidade-capacidade-civil.pdf`, com teoria aplicada, raciocínio pericial penal/civil, entrevista dirigida, EEM forense, transtornos e impacto forense, simulação/dissimulação, modelos de conclus",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.44477177858352657,
+      "maxScore": 0.44477177858352657,
+      "firstRecalledAt": "2026-07-03T20:45:58.672Z",
+      "lastRecalledAt": "2026-07-03T20:45:58.672Z",
+      "queryHashes": [
+        "64e16651b5ce"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "entrevista/eem",
+        "conclusão/laudo/quesitos",
+        "guia-producao.md",
+        "vídeos-slide",
+        "penal/civil",
+        "simulação/dissimulação",
+        "aula",
+        "cap"
+      ]
+    },
+    "memory:memory/2026-07-03.md:100:105": {
+      "key": "memory:memory/2026-07-03.md:100:105",
+      "path": "memory/2026-07-03.md",
+      "startLine": 100,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "- PDF do manual de TDAH Barkley salvo localmente como referência em `content/references/psiquiatria/TDAH_Barkley_Manual.pdf`. Foi montado curso autoral de TDAH em `content/cursos/tdah-barkley/`, com `curso-tdah-robusto.md`, `cronograma-12-semanas.md`, `materiais-praticos.md`, `pontos-praticos-psiquiatria-clinica.md` e plano `memory/projects/curso-tdah/PLAN.md`. Curso tem 8 módulos/30 aulas/60h sugeridas e materiais práticos para clínica e perícia. - Aula 1 de TDAH foi iniciada com a frase-chave: “TDAH não é simplesmente dificuldade de prestar atenção. É dificuldade de regular comportamento, atenção, esforço, tempo, emoção e ação em direção a metas.” A partir dela foram criados posts de Inst",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.3783916145563126,
+      "maxScore": 0.5065334141254425,
+      "firstRecalledAt": "2026-07-03T21:48:50.164Z",
+      "lastRecalledAt": "2026-07-03T22:21:19.066Z",
+      "queryHashes": [
+        "5cd4d2f2aa70",
+        "0023a7a7761a",
+        "08e180c8fa86",
+        "d49110871098",
+        "11855896febb"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "content/cursos/tdah-barkley",
+        "curso-tdah-robusto.md",
+        "cronograma-12-semanas.md",
+        "materiais-praticos.md",
+        "módulos/30",
+        "aulas/60h",
+        "frase-chave",
+        "pdf"
+      ]
+    },
+    "memory:memory/2026-07-03.md:94:101": {
+      "key": "memory:memory/2026-07-03.md:94:101",
+      "path": "memory/2026-07-03.md",
+      "startLine": 94,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "- Henrique enviou trecho real de parecer/perícia com dados indiretos. Foi decidido não salvar conteúdo bruto; apenas usar, se autorizado, para criar template sanitizado. Quando ele pediu aplicar prompt cível, corrigi que o caso era administrativo/funcional, não cível. Depois ele pediu parar; respeitar pausa e não processar aquele caso bruto. - Henrique pediu um kit para perícias administrativas/funcionais. Foi criado material genérico/sanitizado para junta médica, servidor público, licença/readaptação, aposentadoria por incapacidade, revisão proporcional→integral, nexo funcional/ocupacional, análise crítica de laudos administrativos e quesitos. Arquivos citados: `skills/pericias/pericia-psi",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.844128194451332,
+      "maxScore": 0.43320488333702084,
+      "firstRecalledAt": "2026-07-03T21:48:50.164Z",
+      "lastRecalledAt": "2026-07-03T21:57:52.343Z",
+      "queryHashes": [
+        "5cd4d2f2aa70",
+        "08e180c8fa86"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "parecer/perícia",
+        "administrativo/funcional",
+        "administrativas/funcionais",
+        "genérico/sanitizado",
+        "licença/readaptação",
+        "funcional/ocupacional",
+        "skills/pericias/pericia-psi",
+        "henrique"
+      ]
+    },
+    "memory:memory/2026-07-03.md:212:217": {
+      "key": "memory:memory/2026-07-03.md:212:217",
+      "path": "memory/2026-07-03.md",
+      "startLine": 212,
+      "endLine": 217,
+      "source": "memory",
+      "snippet": "- PDF do manual de TDAH Barkley salvo localmente como referência em `content/references/psiquiatria/TDAH_Barkley_Manual.pdf`. Foi montado curso autoral de TDAH em `content/cursos/tdah-barkley/`, com `curso-tdah-robusto.md`, `cronograma-12-semanas.md`, `materiais-praticos.md`, `pontos-praticos-psiquiatria-clinica.md` e plano `memory/projects/curso-tdah/PLAN.md`. Curso tem 8 módulos/30 aulas/60h sugeridas e materiais práticos para clínica e perícia. - Aula 1 de TDAH foi iniciada com a frase-chave: “TDAH não é simplesmente dificuldade de prestar atenção. É dificuldade de regular comportamento, atenção, esforço, tempo, emoção e ação em direção a metas.” A partir dela foram criados posts de Inst",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5025499075651169,
+      "maxScore": 0.5025499075651169,
+      "firstRecalledAt": "2026-07-03T22:21:19.066Z",
+      "lastRecalledAt": "2026-07-03T22:21:19.066Z",
+      "queryHashes": [
+        "11855896febb"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "content/cursos/tdah-barkley",
+        "curso-tdah-robusto.md",
+        "cronograma-12-semanas.md",
+        "materiais-praticos.md",
+        "módulos/30",
+        "aulas/60h",
+        "frase-chave",
+        "pdf"
+      ]
+    },
+    "memory:memory/2026-07-03.md:241:242": {
+      "key": "memory:memory/2026-07-03.md:241:242",
+      "path": "memory/2026-07-03.md",
+      "startLine": 241,
+      "endLine": 242,
+      "source": "memory",
+      "snippet": "- Ao mostrar o curso completo de TDAH, foi lido o início de `content/cursos/tdah-barkley/completo/curso-completo-tdah-barkley.md`. Ele contém `Curso Completo de TDAH — Base Barkley`, material autoral clínico aplicado, preparado para `Dr. Luís Henrique B. Gomes — Psiquiatra`, com Módulo 1/Aula 1 e Aula 2 já desenvolvidas, e segue com Módulo 2/Aula 3 em diante. Henrique pediu “Me mostre”; próxima resposta útil pode continuar exibindo o conteúdo a partir da Aula 2/3 ou enviar trechos do PDF.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.49237656891345977,
+      "maxScore": 0.49237656891345977,
+      "firstRecalledAt": "2026-07-03T22:21:19.066Z",
+      "lastRecalledAt": "2026-07-03T22:21:19.066Z",
+      "queryHashes": [
+        "11855896febb"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "1/aula",
+        "2/aula",
+        "2/3",
+        "mostrar",
+        "curso",
+        "completo",
+        "tdah",
+        "foi"
+      ]
+    }
+  }
+}
