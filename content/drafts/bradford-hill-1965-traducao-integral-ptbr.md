@@ -1,0 +1,168 @@
+# O ambiente e a doença: associação ou causação?
+
+**Autor:** Sir Austin Bradford Hill, CBE, DSC, FRCP (Hon), FRS  
+**Título original:** *The Environment and Disease: Association or Causation?*  
+**Fonte original:** Proceedings of the Royal Society of Medicine. 1965;58:295-300.  
+**Tradução:** tradução livre integral para estudo técnico em português brasileiro.
+
+> Observação: para citações formais, recomenda-se citar o artigo original em inglês.
+
+---
+
+## O ambiente e a doença: associação ou causação?
+
+Entre os objetivos desta recém-fundada Seção de Medicina do Trabalho estão, em primeiro lugar, “proporcionar um meio, não facilmente disponível em outro local, pelo qual médicos e cirurgiões com conhecimento especial da relação entre adoecimento, lesão e condições de trabalho possam discutir seus problemas, não apenas entre si, mas também com colegas de outros campos, por meio de reuniões conjuntas com outras seções da Sociedade”; e, em segundo lugar, “tornar disponíveis informações sobre os riscos físicos, químicos e psicológicos da ocupação, em particular aqueles que são raros ou não facilmente reconhecidos”.
+
+Nesta primeira reunião da Seção, e antes que, com intenções louváveis, passemos a instruir nossos colegas de outros campos, será apropriado considerar um problema fundamental para nós mesmos. Como, em primeiro lugar, detectamos essas relações entre adoecimento, lesão e condições de trabalho? Como determinamos quais são os riscos físicos, químicos e psicológicos da ocupação, especialmente aqueles raros ou de difícil reconhecimento?
+
+Há, naturalmente, situações em que podemos responder razoavelmente a essas perguntas a partir do corpo geral do conhecimento médico. Um ambiente físico particular, talvez extremo, não pode deixar de ser prejudicial; uma substância química particular é sabidamente tóxica ao homem e, portanto, torna-se suspeita no chão de fábrica. Às vezes, alternativamente, podemos considerar o que um determinado ambiente poderia fazer ao homem e então verificar se tais consequências de fato são encontradas.
+
+Mas, com frequência, não temos tal orientação, nem tal meio de proceder. Mais frequentemente, dependemos da observação e da enumeração de eventos definidos, para os quais então buscamos antecedentes. Em outras palavras, vemos que o evento B está associado à característica ambiental A; para tomar um exemplo específico, alguma forma de doença respiratória está associada a uma poeira no ambiente. Em que circunstâncias podemos passar dessa associação observada para um veredicto de causação? Com base em que devemos proceder?
+
+Não tenho o desejo, nem a habilidade, de embarcar numa discussão filosófica sobre o significado de “causação”. A “causa” de uma doença pode ser imediata e direta; pode ser remota e indireta, subjacente à associação observada. Mas, tendo em mente os objetivos da medicina ocupacional — e quase sinonimamente, da medicina preventiva —, a questão decisiva é se a frequência do evento indesejável B será influenciada por uma mudança na característica ambiental A. O modo pelo qual tal mudança exerce sua influência pode demandar muita pesquisa. Entretanto, antes de deduzirmos “causação” e tomarmos medidas, nem sempre teremos de permanecer esperando os resultados de toda essa pesquisa. A cadeia inteira pode ter de ser desvendada, ou alguns poucos elos podem ser suficientes. Isso dependerá das circunstâncias.
+
+Deixando de lado muitos desses problemas semânticos, temos a seguinte situação: nossas observações revelam uma associação entre duas variáveis, perfeitamente clara e além daquilo que gostaríamos de atribuir ao acaso. Que aspectos dessa associação deveríamos considerar especialmente antes de decidir que a interpretação mais provável é a causação?
+
+## 1. Força
+
+Em primeiro lugar na minha lista, eu colocaria a força da associação. Para tomar um exemplo muito antigo, ao comparar as ocupações de pacientes com câncer escrotal com as ocupações de pacientes que se apresentavam com outras doenças, Percival Pott pôde chegar a uma conclusão correta por causa do enorme aumento de câncer escrotal nos limpadores de chaminés. “Mesmo tão tarde quanto na segunda década do século XX”, escreve Richard Doll, “a mortalidade dos limpadores de chaminés por câncer escrotal era cerca de 200 vezes a dos trabalhadores que não estavam especialmente expostos ao alcatrão ou a óleos minerais; e, no século XVIII, a diferença relativa provavelmente foi muito maior.”
+
+Para tomar um exemplo mais moderno e mais geral, sobre o qual reflito há mais de quinze anos, inquéritos prospectivos sobre tabagismo mostraram que a taxa de morte por câncer de pulmão em fumantes de cigarro é nove a dez vezes a taxa em não fumantes, e que a taxa em grandes fumantes de cigarro é vinte a trinta vezes tão grande.
+
+Por outro lado, a taxa de morte por trombose coronariana em fumantes não é mais do que duas vezes, possivelmente menos, a taxa em não fumantes. Embora haja boa evidência para sustentar a causação, nesse caso certamente é muito mais fácil imaginar algumas características da vida que possam andar de mãos dadas com o tabagismo — características que poderiam, concebivelmente, ser a verdadeira causa subjacente ou, ao menos, um importante contribuinte, seja falta de exercício, natureza da dieta ou outros fatores.
+
+Mas explicar o pronunciado excesso de câncer de pulmão em quaisquer outros termos ambientais exigiria alguma característica de vida tão intimamente ligada ao tabagismo e à quantidade de tabaco consumida que tal característica deveria ser facilmente detectável. Se não conseguimos detectá-la ou inferi-la razoavelmente, então, nessas circunstâncias, creio que estamos razoavelmente autorizados a rejeitar a vaga alegação do crítico de poltrona: “você não pode provar; pode haver tal característica”.
+
+Certamente, nessa situação, eu rejeitaria o argumento, às vezes apresentado, de que o que importa é a diferença absoluta entre as taxas de morte dos vários grupos, e não a razão de uma para outra. Isso depende do que queremos saber. Se queremos saber quantas mortes adicionais por câncer de pulmão ocorrerão devido ao tabagismo — presumindo causalidade —, então obviamente devemos usar as diferenças absolutas entre as taxas de morte. Mas daí não se segue que, aqui ou em problemas especificamente ocupacionais, essa melhor medida do efeito sobre a mortalidade seja também a melhor medida em relação à etiologia. Nesse aspecto, as razões são muito mais informativas.
+
+Ao enfatizarmos a força de uma associação, devemos, contudo, olhar o outro lado da moeda. Não devemos estar prontos demais para descartar uma hipótese de causa e efeito simplesmente porque a associação observada parece pequena. Há muitas ocasiões na medicina em que isso é verdadeiro. Relativamente poucas pessoas que abrigam o meningococo adoecem de meningite meningocócica. Relativamente poucas pessoas ocupacionalmente expostas à urina de ratos contraem a doença de Weil.
+
+## 2. Consistência
+
+A seguir, em minha lista de características a serem especialmente consideradas, eu colocaria a consistência da associação observada. Ela foi repetidamente observada por diferentes pessoas, em diferentes lugares, circunstâncias e épocas?
+
+Esse requisito pode ser de especial importância para aqueles riscos raros mencionados nos termos de referência da Seção. Com muitas mentes alertas trabalhando hoje na indústria, muitas associações ambientais podem surgir. Algumas delas, nos testes usuais de significância estatística, parecerão improváveis de serem devidas ao acaso. No entanto, se o acaso é a explicação ou se um risco verdadeiro foi revelado, às vezes isso só poderá ser respondido pela repetição das circunstâncias e das observações.
+
+Voltando ao exemplo geral, o Comitê Consultivo do Surgeon-General do Serviço de Saúde Pública dos Estados Unidos encontrou a associação do tabagismo com câncer de pulmão em 29 inquéritos retrospectivos e 7 prospectivos. A lição aqui é que, de modo geral, a mesma resposta foi alcançada em uma ampla variedade de situações e técnicas. Em outras palavras, podemos inferir justificadamente que a associação não se deve a algum erro constante ou falácia que permeia toda investigação. E, de fato, precisamos estar atentos a isso.
+
+Há, portanto, uma posição um tanto paradoxal: resultados diferentes em uma investigação diferente certamente não podem ser considerados como refutação da evidência original; ainda assim, os mesmos resultados obtidos exatamente pela mesma forma de investigação nem sempre fortalecerão muito a evidência original. Eu mesmo daria bastante peso a resultados semelhantes alcançados de maneiras bastante diferentes, por exemplo, prospectivamente e retrospectivamente.
+
+Olhando novamente o outro lado da moeda, haverá ocasiões em que a repetição está ausente ou é impossível, e ainda assim não devemos hesitar em tirar conclusões. A experiência dos refinadores de níquel do sul do País de Gales é um exemplo notável.
+
+Nessa população em risco, trabalhadores e pensionistas totalizavam cerca de mil pessoas. Em dez anos, de 1929 a 1938, dezesseis deles morreram de câncer de pulmão, onze morreram de câncer dos seios nasais. Pelas taxas específicas de mortalidade por idade da Inglaterra e do País de Gales daquela época, seria esperado um óbito por câncer de pulmão — contra os 16 observados — e uma fração de óbito por câncer nasal — contra os 11 observados. Em todos os outros locais do corpo, o câncer apareceu no atestado de óbito 11 vezes, quando se esperariam 10 ou 11. Houve 67 mortes por todas as demais causas de mortalidade, e ao longo de dez anos seriam esperadas 72. Finalmente, a divisão da população em risco de acordo com os trabalhos mostrou que o excesso de câncer de pulmão e nariz recaiu inteiramente sobre os trabalhadores empregados nos processos químicos.
+
+Mais recentemente, Richard Doll levou essa história adiante. Em nove anos, de 1948 a 1956, houve 48 mortes por câncer de pulmão e 13 por câncer nasal, contra números esperados de 10 e 0,1, respectivamente. Em 1923, antes que qualquer risco especial fosse reconhecido, certas mudanças ocorreram na refinaria. Nenhum caso de câncer nasal foi observado em qualquer homem que entrou na fábrica após aquele ano, e nesses homens não houve excesso de câncer de pulmão.
+
+Nenhum agente causal desses neoplasmas havia sido identificado. Até recentemente, nenhum experimento animal havia dado pista ou apoio a essa evidência inteiramente estatística. Ainda assim, eu me pergunto se algum de nós hesitaria em aceitá-la como prova de um grave risco industrial.
+
+## 3. Especificidade
+
+Uma das razões, sem dúvida, é a especificidade da associação, a terceira característica que invariavelmente devemos considerar. Se, como aqui, a associação é limitada a trabalhadores específicos, a locais e tipos particulares de doença, e não há associação entre o trabalho e outros modos de morrer, então claramente esse é um forte argumento a favor da causação.
+
+Não devemos, contudo, superenfatizar a importância dessa característica. Mesmo no exemplo presente, há relação de causa e efeito com dois locais diferentes de câncer — pulmão e nariz. O leite, como veículo de infecção e, nesse sentido, causa de doença, pode produzir um conjunto tão variado quanto escarlatina, difteria, tuberculose, febre ondulante, dor de garganta, disenteria e febre tifoide. Antes da descoberta do fator subjacente, a origem bacteriana da doença, ter-se-ia causado dano ao insistir demasiadamente na necessidade de especificidade como característica necessária antes de condenar o leite.
+
+Em tempos modernos, as investigações prospectivas sobre tabagismo e câncer de pulmão foram criticadas por não mostrarem especificidade — em outras palavras, a taxa de morte dos fumantes seria maior do que a dos não fumantes por muitas causas de morte. Mas aqui certamente se deve retornar à minha primeira característica, a força da associação. Se outras causas de morte aumentam 10%, 20% ou mesmo 50% em fumantes, enquanto o câncer de pulmão aumenta 900% a 1.000%, temos especificidade — uma especificidade na magnitude da associação.
+
+Também devemos manter em mente que doenças podem ter mais de uma causa. Sempre foi possível adquirir câncer escrotal sem limpar chaminés ou sem trabalhar em certas fiações. Relações um-para-um não são frequentes. De fato, acredito que a multicausalidade geralmente é mais provável do que a causalidade única, embora possivelmente, se conhecêssemos todas as respostas, poderíamos voltar a um único fator.
+
+Em suma, se a especificidade existe, podemos ser capazes de tirar conclusões sem hesitação; se ela não é aparente, não ficamos necessariamente sentados indecisos sobre o muro.
+
+## 4. Temporalidade
+
+Minha quarta característica é a relação temporal da associação: qual é a carroça e qual é o cavalo? Essa é uma questão particularmente relevante em doenças de desenvolvimento lento. Uma dieta particular leva à doença, ou os estágios iniciais da doença levam a esses hábitos dietéticos peculiares? Uma ocupação particular ou ambiente ocupacional promove infecção pelo bacilo da tuberculose, ou homens e mulheres que selecionam esse tipo de trabalho são mais propensos a contrair tuberculose independentemente do ambiente — ou, de fato, já a contraíram?
+
+Esse problema temporal pode não surgir com frequência, mas certamente precisa ser lembrado, particularmente quando fatores seletivos estão em jogo na indústria.
+
+## 5. Gradiente biológico
+
+Em quinto lugar, se a associação é de um tipo que pode revelar um gradiente biológico, ou curva dose-resposta, devemos procurar cuidadosamente tal evidência. Por exemplo, o fato de a taxa de morte por câncer de pulmão aumentar linearmente com o número de cigarros fumados diariamente acrescenta muito à evidência simples de que fumantes têm taxa de morte maior do que não fumantes.
+
+Essa comparação seria enfraquecida, embora não necessariamente destruída, se dependesse, por exemplo, de uma taxa de morte muito maior em fumantes leves e menor em fumantes mais pesados. Então precisaríamos imaginar uma relação muito mais complexa para satisfazer a hipótese de causa e efeito. A curva dose-resposta clara admite uma explicação simples e coloca o caso sob uma luz mais clara.
+
+O mesmo seria evidentemente verdadeiro para um alegado risco por poeira na indústria. Quanto mais poeirento o ambiente, maior a incidência da doença que esperaríamos ver. Muitas vezes a dificuldade é obter alguma medida quantitativa satisfatória do ambiente que permita explorar essa dose-resposta. Mas devemos invariavelmente procurá-la.
+
+## 6. Plausibilidade
+
+Será útil se a causação que suspeitamos for biologicamente plausível. Mas estou convencido de que essa é uma característica que não podemos exigir. O que é biologicamente plausível depende do conhecimento biológico da época.
+
+Não havia conhecimento biológico para apoiar — ou refutar — a observação de Pott, no século XVIII, sobre o excesso de câncer em limpadores de chaminés. Foi a falta de conhecimento biológico no século XIX que levou um ensaísta, ao escrever sobre o valor e a falácia das estatísticas, a concluir, entre outras associações “absurdas”, que seria ridículo um estranho que passasse a noite no porão de um navio de emigrantes atribuir o tifo que contraísse aos vermes com os quais os corpos dos doentes poderiam estar infectados. Em tempos mais próximos, no século XX, não havia conhecimento biológico para apoiar a evidência contra a rubéola.
+
+Em suma, a associação que observamos pode ser nova para a ciência ou para a medicina, e não devemos descartá-la levianamente como estranha demais. Como Sherlock Holmes aconselhou ao Dr. Watson: “quando você elimina o impossível, o que resta, por mais improvável que pareça, deve ser a verdade”.
+
+## 7. Coerência
+
+Por outro lado, a interpretação de causa e efeito dos nossos dados não deve conflitar seriamente com os fatos geralmente conhecidos da história natural e da biologia da doença — na expressão do Comitê Consultivo do Surgeon-General, ela deve ter coerência.
+
+Na discussão sobre câncer de pulmão, o Comitê considera sua associação com o tabagismo coerente com o aumento temporal ocorrido nas duas variáveis ao longo da última geração e com a diferença de mortalidade entre os sexos — características que poderiam muito bem se aplicar a um problema ocupacional.
+
+Pessoalmente, considero que a evidência histopatológica do epitélio brônquico de fumantes e o isolamento, na fumaça do cigarro, de fatores carcinogênicos para a pele de animais de laboratório contribuem muito para a coerência. Contudo, embora tal evidência laboratorial possa fortalecer enormemente a hipótese e até determinar o agente causal real, a ausência de tal evidência não pode anular as observações epidemiológicas em humanos.
+
+O arsênico pode, sem dúvida, causar câncer de pele no homem, mas nunca foi possível demonstrar tal efeito em qualquer outro animal. Em campo mais amplo, as observações epidemiológicas de John Snow sobre a transmissão da cólera pela água da bomba da Broad Street teriam sido quase incontestáveis se Robert Koch estivesse então disponível para isolar o vibrião das fraldas do bebê, do próprio poço e do cavalheiro de saúde delicada vindo de Brighton. Contudo, o fato de o trabalho de Koch ter de esperar mais trinta anos não enfraqueceu realmente o caso epidemiológico, embora o tenha tornado mais difícil de estabelecer contra as críticas da época — justas e injustas.
+
+## 8. Experimento
+
+Ocasionalmente é possível recorrer a evidência experimental ou semi-experimental. Por exemplo, por causa de uma associação observada, alguma ação preventiva é tomada. Ela, de fato, previne? A poeira na oficina é reduzida; os óleos lubrificantes são trocados; pessoas param de fumar cigarros. A frequência dos eventos associados é afetada? Aqui pode ser revelado o apoio mais forte à hipótese de causação.
+
+## 9. Analogia
+
+Em algumas circunstâncias, seria justo julgar por analogia. Com os efeitos da talidomida e da rubéola diante de nós, certamente estaríamos prontos a aceitar evidência mais leve, porém semelhante, com outra droga ou outra doença viral na gravidez.
+
+## Os nove pontos de vista
+
+Temos, então, nove diferentes pontos de vista a partir dos quais devemos estudar uma associação antes de proclamar causação. O que não acredito — e isso já foi sugerido — é que possamos estabelecer regras rígidas e definitivas de evidência que devam ser obedecidas antes de aceitarmos causa e efeito.
+
+Nenhum dos meus nove pontos de vista pode trazer evidência indisputável a favor ou contra a hipótese de causa e efeito, e nenhum pode ser exigido como condição indispensável. O que eles podem fazer, com maior ou menor força, é ajudar-nos a formar nosso juízo sobre a questão fundamental: existe alguma outra forma de explicar o conjunto de fatos diante de nós? Existe alguma outra resposta igualmente provável, ou mais provável, do que causa e efeito?
+
+## Testes de significância
+
+Nenhum teste formal de significância pode responder a essas perguntas. Tais testes podem, e devem, lembrar-nos dos efeitos que o acaso pode criar, e nos instruirão sobre a provável magnitude desses efeitos. Além disso, nada contribuem para a “prova” de nossa hipótese.
+
+Quase quarenta anos atrás, entre os estudos de saúde ocupacional que realizei para o Industrial Health Research Board do Medical Research Council, havia um que dizia respeito aos trabalhadores das fiações de algodão de Lancashire. A questão que eu precisava responder, usando os registros do Seguro Nacional de Saúde daquela época, era esta: os trabalhadores da sala de cardagem da fiação, que cuidavam das máquinas que limpavam o algodão cru, tinham uma experiência de doença de algum modo diferente daquela de outros operários nas mesmas fábricas, relativamente não expostos à poeira e à fibra que caracterizavam a sala de cardagem?
+
+A resposta foi um “sim” inequívoco. Dos 30 aos 60 anos, os trabalhadores da sala de cardagem sofriam mais de três vezes mais por causas respiratórias de adoecimento, enquanto, por causas não respiratórias, sua experiência não diferia da dos outros trabalhadores.
+
+Essa diferença pronunciada nas causas respiratórias derivava não de períodos de doença anormalmente longos, mas sim de um número excessivo de ausências repetidas ao trabalho entre os trabalhadores da sala de cardagem.
+
+Tudo isso, corretamente, passou ao limbo das coisas esquecidas. O que me interessa hoje é isto: meus resultados foram apresentados separadamente para homens e mulheres e para meia dúzia de grupos etários, em 36 tabelas. Portanto, havia muitas contas. Ainda assim, não encontro em lugar algum que eu tenha achado necessário usar um teste de significância. A evidência era tão clara, as diferenças entre os grupos eram em sua maioria tão grandes, o contraste entre causas respiratórias e não respiratórias de doença era tão específico, que nenhum teste formal poderia realmente contribuir com algo de valor para o argumento. Então, por que usá-los?
+
+Pensaríamos ou agiríamos assim hoje? Duvido um pouco. Entre as duas guerras mundiais, havia forte motivo para enfatizar ao clínico e a outros pesquisadores a importância de não ignorar os efeitos do acaso sobre seus dados. Talvez muitas vezes generalizações fossem baseadas em dois homens e um cão de laboratório, enquanto o tratamento de escolha era deduzido de uma diferença entre dois leitos de pacientes e poderia facilmente não ter significado real. Portanto, foi uma correção útil que estatísticos enfatizassem e ensinassem a necessidade de testes de significância como guias de cautela antes de tirar uma conclusão, antes de transformar o particular em geral.
+
+Pergunto-me se o pêndulo não foi longe demais — não apenas com os alunos atentos, mas até com os próprios estatísticos. Recusar-se a tirar conclusões sem erros-padrão certamente pode ser igualmente tolo. Felizmente, creio que ainda não fomos tão longe quanto nossos amigos nos Estados Unidos, onde me disseram que alguns editores de periódicos devolvem um artigo porque testes de significância não foram aplicados.
+
+Há, contudo, inúmeras situações em que eles são totalmente desnecessários: porque a diferença é grotescamente óbvia, porque é desprezível, ou porque, seja formalmente significativa ou não, é pequena demais para ter importância prática.
+
+Pior ainda, o brilho da tabela estatística desvia a atenção das inadequações da refeição. Apenas uma parte, e uma parte desconhecida, do pessoal de uma fábrica se oferece para algum procedimento ou entrevista; 20% dos pacientes tratados de determinada maneira se perdem do seguimento; 30% de uma amostra aleatória nunca são contatados. A amostra pode, de fato, assemelhar-se à do homem que, segundo Swift, desejava vender sua casa e carregava um pedaço de tijolo no bolso, que mostrava como amostra para encorajar compradores. O autor, o editor e o leitor não se comovem. As fórmulas mágicas estão ali.
+
+É claro que exagero. Ainda assim, frequentemente suspeito que desperdiçamos muito tempo, agarramos a sombra e perdemos a substância, enfraquecemos nossa capacidade de interpretar dados e de tomar decisões razoáveis, qualquer que seja o valor de P. E com demasiada frequência deduzimos “nenhuma diferença” de “nenhuma diferença significativa”. Como o fogo, o teste do qui-quadrado é um excelente servo e um mau senhor.
+
+## O caso para a ação
+
+Finalmente, ao passarmos da associação à causação, acredito que, na “vida real”, teremos de considerar o que decorre dessa decisão. Em bases científicas, não deveríamos fazer tal coisa. A evidência está ali para ser julgada por seus méritos, e o julgamento, nesse sentido, deveria ser completamente independente do que depende dele — ou de quem depende dele.
+
+Mas, em outro sentido, mais prático, podemos certamente perguntar o que está envolvido em nossa decisão. Na medicina ocupacional, nosso objetivo geralmente é agir. Se esta é a causa operante e aquele é o efeito deletério, então desejaremos intervir para abolir ou reduzir morte ou doença.
+
+Embora essa seja uma ambição louvável, ela quase inevitavelmente nos leva a introduzir padrões diferenciais antes de condenar. Assim, com evidência relativamente leve, poderíamos decidir restringir o uso de uma droga para enjoo matinal em gestantes. Se estivermos errados ao deduzir causação a partir de associação, nenhum grande dano será feito. A boa senhora e a indústria farmacêutica sem dúvida sobreviverão.
+
+Com evidência razoável, poderíamos tomar medidas sobre o que parece ser um risco ocupacional; por exemplo, poderíamos trocar um óleo provavelmente carcinogênico por um óleo não carcinogênico em um ambiente limitado, sem muita injustiça caso estejamos errados.
+
+Mas precisaríamos de evidência muito forte antes de fazer pessoas queimarem em suas casas um combustível de que não gostam, ou parar de fumar os cigarros e comer as gorduras e o açúcar de que gostam. Ao pedir evidência muito forte, eu repetiria enfaticamente que isso não significa cruzar cada “t” nem cruzar espadas com cada crítico antes de agir.
+
+Todo trabalho científico é incompleto — seja observacional, seja experimental. Todo trabalho científico está sujeito a ser alterado ou modificado pelo avanço do conhecimento. Isso não nos confere liberdade para ignorar o conhecimento que já temos, nem para adiar a ação que ele parece exigir em determinado momento.
+
+Quem sabe, perguntou Robert Browning, se o mundo pode acabar esta noite? Verdade. Mas, com base nas evidências disponíveis, a maioria de nós se prepara para pegar o trem das 8h30 no dia seguinte.
+
+## Referências do artigo original
+
+Doll R. In: Witts LJ, editor. *Medical Surveys and Clinical Trials*. 2nd ed. London; 1964. p.333.
+
+Doll R, Hill AB. *British Medical Journal*. 1964; i:1399,1460.
+
+Heady JA. *Medical World, London*. 1958;89:305.
+
+Hill AB. *Sickness amongst Operatives in Lancashire Spinning Mills*. Industrial Health Research Board Report No. 59. London: HMSO; 1930.
+
+Hill AB. *Journal of the Institute of Actuaries*. 1962;88:178.
+
+Snow J. *On the Mode of Communication of Cholera*. 2nd ed. London; 1855. Reprinted New York; 1936.
+
+US Department of Health, Education & Welfare. *Smoking and Health*. Public Health Service Publication No. 1103. Washington; 1964.

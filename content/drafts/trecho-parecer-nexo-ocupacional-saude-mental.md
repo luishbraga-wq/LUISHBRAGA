@@ -1,0 +1,53 @@
+# Trecho técnico para parecer — nexo ocupacional em saúde mental
+
+## Análise médico-pericial do padrão afastamento laboral, melhora clínica e reagudização diante da iminência de retorno
+
+A análise do nexo causal ou concausal em transtornos mentais relacionados ao trabalho exige avaliação integrada da história clínica, da cronologia dos sintomas, da exposição ocupacional, da funcionalidade, dos documentos médicos e dos demais elementos constantes dos autos. Em saúde mental, raramente há um único marcador isolado capaz de demonstrar causalidade de forma absoluta. O nexo deve ser inferido a partir da convergência de elementos clínicos, documentais, temporais e ocupacionais.
+
+No presente caso, merece especial atenção o padrão longitudinal descrito no relatório psiquiátrico de 06/09/2025, caracterizado por **melhora clínica durante o afastamento laboral e reagudização sintomática diante da iminência de retorno ao trabalho**. Tal dinâmica evolutiva constitui marcador semiológico relevante, pois sugere relação entre exposição ocupacional, retirada do agente estressor e recrudescimento dos sintomas diante da perspectiva de reexposição.
+
+Esse padrão é compatível com o critério de **reversibilidade**, classicamente utilizado na análise de causalidade. A reversibilidade, nesse contexto, não deve ser entendida como prova isolada de nexo, mas como elemento de reforço da hipótese causal ou concausal quando articulada à temporalidade, à plausibilidade biológica, à coerência clínica e à presença de fatores psicossociais ocupacionais documentados.
+
+Sob a perspectiva dos critérios de Bradford Hill, adaptados à saúde mental ocupacional, observam-se elementos relevantes para a análise:
+
+1. **Temporalidade**: a evolução sintomática deve ser examinada em relação à exposição laboral, ao afastamento e à iminência de retorno. Quando há melhora durante a retirada do ambiente ocupacional e piora com a perspectiva de reexposição, a sequência temporal torna-se compatível com nexo ou concausalidade.
+
+2. **Plausibilidade biológica**: há plausibilidade entre exposição prolongada a estressores psicossociais e adoecimento psíquico. O estresse crônico pode envolver ativação sustentada de sistemas neuroendócrinos, especialmente o eixo hipotálamo-hipófise-adrenal, associando-se a sintomas ansiosos, depressivos, alterações do sono, irritabilidade, fadiga, prejuízo cognitivo e redução funcional.
+
+3. **Gradiente de exposição ou dose-resposta**: caso demonstrado nos autos aumento progressivo de carga, contratos, metas, responsabilidades, pressão organizacional ou conflitos laborais, tal progressão pode fortalecer a hipótese de relação entre intensidade da exposição e agravamento sintomático.
+
+4. **Reversibilidade**: a melhora durante o afastamento e a reagudização diante da iminência de retorno configuram comportamento clínico compatível com retirada e reaproximação do agente estressor. Esse elemento é particularmente relevante em quadros psíquicos relacionados ao trabalho, sobretudo quando a sintomatologia retorna ou se intensifica diante da possibilidade concreta de reexposição ao mesmo contexto laboral.
+
+A literatura em saúde ocupacional reconhece que fatores psicossociais do trabalho, como sobrecarga, baixo controle, assédio, violência, conflitos, insegurança, apoio institucional insuficiente, carga mental excessiva e organização inadequada do trabalho, podem contribuir para o surgimento ou agravamento de transtornos mentais comuns e síndromes relacionadas ao estresse ocupacional. A Organização Mundial da Saúde reconhece os riscos psicossociais como fatores relevantes para a saúde mental no trabalho, e a atualização da NR-1 reforçou a necessidade de identificação e gerenciamento desses riscos no âmbito da Segurança e Saúde no Trabalho.
+
+No mesmo sentido, a literatura sobre retorno ao trabalho em transtornos mentais comuns demonstra que a melhora sintomática durante o afastamento não equivale, por si só, à plena recuperação funcional nem garante retorno laboral sustentável. O retorno ao mesmo ambiente, sem manejo dos fatores psicossociais ou sem adaptação adequada, pode favorecer recaídas, prolongamento do afastamento ou agravamento clínico.
+
+Portanto, o padrão **“afastamento laboral → melhora clínica / iminência de retorno → reagudização sintomática”** deve ser interpretado como elemento clínico-longitudinal de alta relevância para a análise do nexo. Tal padrão sugere que o trabalho pode ter atuado como fator causal, concausal ou agravante, a depender da confirmação dos demais elementos documentais e ocupacionais constantes dos autos.
+
+Importa destacar que essa conclusão não se baseia em inferência automática, tampouco em presunção genérica de que todo sofrimento psíquico associado ao trabalho configure doença ocupacional. A robustez da análise decorre da convergência entre cronologia clínica, exposição psicossocial, documentação médica, funcionalidade, resposta ao afastamento e reagudização diante da reexposição ou de sua iminência.
+
+## Formulação conclusiva sugerida
+
+Diante do conjunto analisado, o padrão evolutivo descrito — melhora clínica durante o afastamento e reagudização diante da iminência de retorno ao ambiente laboral — constitui marcador semiológico relevante e compatível com nexo ou concausalidade ocupacional. Tal achado se alinha aos critérios de temporalidade, plausibilidade biológica, possível gradiente de exposição e reversibilidade, devendo ser integrado aos demais elementos dos autos para a conclusão médico-pericial.
+
+## Referências essenciais
+
+1. Hill AB. The environment and disease: association or causation? Proc R Soc Med. 1965;58(5):295-300.
+
+2. Verbeek J. When work is related to disease, what establishes evidence for a causal relation? Saf Health Work. 2012;3(2):110-116. doi:10.5491/SHAW.2012.3.2.110.
+
+3. Determination of causal associations in occupational medicine and the medico-legal context: references and standards. Rev Bras Med Trab. 2021. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC8447638/
+
+4. World Health Organization. Mental health at work. Geneva: WHO. Disponível em: https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work
+
+5. World Health Organization. Burn-out an occupational phenomenon: International Classification of Diseases. Geneva: WHO; 2019.
+
+6. European Agency for Safety and Health at Work. Return to work after sick leave due to mental health problems. OSHwiki.
+
+7. Effects of work-directed interventions on return-to-work in people on sick-leave due to common mental disorders: a systematic review. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC11245426/
+
+8. Aronsson G, Theorell T, Grape T, Hammarström A, Hogstedt C, Marteinsdottir I, et al. A systematic review including meta-analysis of work environment and burnout symptoms. BMC Public Health. 2017;17:264. doi:10.1186/s12889-017-4153-7.
+
+9. Herman JP, McKlveen JM, Ghosal S, Kopp B, Wulsin A, Makinson R, et al. Regulation of the hypothalamic-pituitary-adrenocortical stress response. Compr Physiol. 2016;6(2):603-621. doi:10.1002/cphy.c150015.
+
+10. Ministério do Trabalho e Emprego. Empresas brasileiras terão que avaliar riscos psicossociais a partir de 2025. Brasília: MTE; 2024.

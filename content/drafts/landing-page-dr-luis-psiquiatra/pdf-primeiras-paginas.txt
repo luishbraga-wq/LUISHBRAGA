@@ -1,0 +1,1629 @@
+
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+
+
+--- PAGE 3 ---
+
+
+--- PAGE 4 ---
+
+
+--- PAGE 5 ---
+■
+■
+■
+■
+■
+■
+■
+■
+A autora deste livro e a editora empenharam seus melhores esforços para assegurar que as
+informações e os procedimentos apresentados no texto estejam em acordo com os padrões
+aceitos à época da publicação, e todos os dados foram atualizados pela autora até a data do
+fechamento do livro. Entretanto, tendo em conta a evolução das ciências, as atualizações
+legislativas, as mudanças regulamentares governamentais e o constante fluxo de novas
+informações sobre os temas que constam do livro, recomendamos enfaticamente que os
+leitores consultem sempre outras fontes fidedignas, de modo a se certificarem de que as
+informações contidas no texto estão corretas e de que não houve alterações nas
+recomendações ou na legislação regulamentadora.
+Data do fechamento do livro: 30/03/2024.
+A autora e a editora se empenharam para citar adequadamente e dar o devido crédito a todos
+os detentores de direitos autorais de qualquer material utilizado neste livro, dispondo-se a
+possíveis acertos posteriores caso, inadvertida e involuntariamente, a identificação de algum
+deles tenha sido omitida.
+Atendimento ao cliente: (11) 5080-0751 | faleconosco@grupogen.com.br
+Direitos exclusivos para a língua portuguesa
+Copyright © 2024 by
+EDITORA GUANABARA KOOGAN LTDA.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Travessa do Ouvidor, 11
+Rio de Janeiro – RJ – CEP 20040-040
+www.grupogen.com.br
+Reservados todos os direitos. É proibida a duplicação ou reprodução deste volume, no todo
+ou em parte, em quaisquer formas ou por quaisquer meios (eletrônico, mecânico, gravação,
+fotocópia, distribuição pela Internet ou outros), sem permissão, por escrito, da EDITORA
+GUANABARA KOOGAN LTDA.
+Capa: Bruno Sales
+Imagem da capa: iStock (© wowwa)
+Ficha catalográfica
+CIP-BRASIL. CATALOGAÇÃO NA PUBLICAÇÃO 
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ
+M467p 
+2. ed.
+
+--- PAGE 6 ---
+Meleiro, Alexandrina Maria Augusto da Silva
+Psiquiatria : estudos fundamentais / Alexandrina Maria Augusto da Silva Meleiro. - 2. ed. -
+Rio de Janeiro : Guanabara Koogan, 2024.
+28 cm.
+Inclui bibliografia e índice
+ISBN 9788527739894
+1. Psiquiatria. I. Título.
+23-85980 CDD: 616.89 
+CDU: 616.89
+Meri Gleice Rodrigues de Souza - Bibliotecária - CRB-7/6439
+
+
+--- PAGE 7 ---
+ 
+ 
+ 
+A você, que pretende dedicar parte de seu precioso tempo a folhear ou,
+quem sabe, a ler com carinho este livro e, posteriormente, aplicar o
+conhecimento sobre os diferentes temas aqui apresentados no seu
+cotidiano. 
+O estímulo vivo da ânsia do saber é de essencial importância em
+Psiquiatria para todos os profissionais de Saúde e áreas afins.
+
+--- PAGE 8 ---
+Acioly Luiz Tavares de Lacerda
+Médico. Doutorado em Ciências Médicas pela Universidade Estadual de
+Campinas (Unicamp). Especialização em Psiquiatria pela Unicamp.
+Graduação em Medicina pela Universidade Federal de Pernambuco
+(UFPE). Professor Adjunto (Livre-Docência) na Universidade Federal de
+São Paulo (Unifesp). Coordenador do Programa de Distúrbios Afetivos e
+Ansiosos (PRODAF) da Unifesp.
+Adriano Segal
+Médico Psiquiatra. Doutorado em Psiquiatria pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Especialização em
+Psiquiatria pela FMUSP. Graduação em Medicina pela FMUSP.
+Professor Ad Hoc de Pós-Graduação na FMUSP.
+Alan Campos Luciano
+Médico Psiquiatra. Doutorando em Ciências Médicas pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Especialização em
+Psiquiatria pelo Instituto de Psiquiatria do Hospital das Clínicas da
+FMUSP (IPq-HC-FMUSP). Médico Assistente do IPq-HC-FMUSP.
+Psiquiatra do Programa Ansiedade (Amban) do IPq-HC-FMUSP.
+
+--- PAGE 9 ---
+Alankardec Gonzalez
+Médico Psiquiatra. Especialização em Psiquiatria pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Graduação em
+Medicina pela FMUSP. Voluntário do Centro de Valorização da Vida
+(CVV) há mais de 50 anos. Atual presidente do CVV (biênio abr/23-
+abr/25).
+Alberto Stoppe Junior
+Médico Psiquiatra. Doutorado em Psiquiatria pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Mestrado em
+Psiquiatria pela FMUSP. Especialização em Psiquiatria pelo Hospital do
+Servidor Público Estadual de São Paulo. Graduação em Medicina pela
+FMUSP. Membro da Associação Brasileira de Psiquiatria (ABP).
+Alcina J. S. Barros
+Médica Psiquiatra. Doutorado em Psiquiatria e Ciências do
+Comportamento pela Universidade Federal do Rio Grande do Sul
+(UFRGS). Especialização em Psiquiatria pela Associação Brasileira de
+Psiquiatria (ABP). Graduação em Medicina pela Universidade Federal
+do Rio Grande do Norte (UFRN). Membro da American Academy of
+Psychiatry and the Law (AAPL).
+Alexander Moreira-Almeida
+Médico Psiquiatra e Professor Universitário. Doutorado em Psiquiatria
+pela Universidade de São Paulo (USP). Especialização em Psiquiatria e
+Terapia Cognitiva Comportamental pelo Instituto de Psiquiatria do
+Hospital das Clínicas da Faculdade de Medicina da USP (IPq-HC-
+FMUSP). Graduação em Medicina pela Universidade Federal de Juiz de
+Fora (UFJF). Professor Titular de Psiquiatria na Faculdade de Medicina
+da UFJF. Membro da Associação Brasileira de Psiquiatria (ABP).
+Membro da World Psychiatric Association (WPA). Diretor do Núcleo de
+
+--- PAGE 10 ---
+Pesquisas em Espiritualidade e Saúde (NUPES) da Faculdade de
+Medicina da UFJF. Coordenador da Seção de Espiritualidade da
+Associação Psiquiátrica da América Latina (APAL). Ex-coordenador das
+Seções de Espiritualidade e Psiquiatria da WPA (2114-20) e da ABP
+(2014-2021).
+Alexandre Martins Valença
+Médico Psiquiatra. Doutorado em Psiquiatria pela Universidade Federal
+do Rio de Janeiro (UFRJ). Mestrado em Psiquiatria pela UFRJ.
+Especialização em Psiquiatria Forense pela Associação Brasileira de
+Psiquiatria (ABP). Especialização em Medicina Legal e Perícia Médica
+pela Associação Brasileira de Medicina Legal e Perícia Médica.
+Graduação em Medicina pela Universidade Federal de Pernambuco
+(UFPE). Professor Associado na Universidade Federal Fluminense
+(UFF). Membro da ABP.
+Alexandre Saadeh
+Médico Psiquiatra e Professor Universitário. Doutorado em Ciências
+pela Faculdade de Medicina da Universidade de São Paulo (FMUSP).
+Mestrado em Psiquiatria pela FMUSP. Especialização em Psicodrama
+pela Sedes Sapientiae. Graduação em Medicina pela FMUSP. Professor
+Colaborador na FMUSP. Membro da World Professional Association for
+Transgender Health (WPATH).
+Almir Tavares
+Médico Psiquiatra. Postdoctoral Fellow pelo Johns Hopkins Hospital,
+EUA. Doutorado em Psiquiatria pela Escola Paulista de Medicina da
+Universidade Federal de São Paulo (EPM/Unifesp). Especialização em
+Geriatria e Gerontologia pela Sociedade Brasileira de Geriatria e
+Gerontologia (SBGG). Especialização em Psiquiatria, com áreas de
+atuação em Medicina do Sono, Psicogeriatria e Psicoterapia, pela
+
+--- PAGE 11 ---
+Associação Brasileira de Psiquiatria (ABP). Professor da Faculdade de
+Medicina da Universidade Federal de Minas Gerais (UFMG).
+Amaury Cantilino
+Médico Psiquiatra. Doutorado em Neuropsiquiatria e Ciências do
+Comportamento pela Universidade Federal de Pernambuco (UFPE).
+Mestrado em Neuropsiquiatria pela UFPE. Especialização em Psiquiatria
+pelo Hospital das Clínicas da UFPE. Graduado em Medicina pela UFPE.
+Ex-Professor Associado no Centro de Ciências Médicas da UFPE.
+Presidente da Sociedade Pernambucana de Psiquiatria (SPP) entre 2020 e
+2022.
+Ana Cecilia Petta Roselli Marques
+Médica Psiquiatra. Doutorado em Ciências pela Universidade Federal de
+São Paulo (Unifesp). Especialização em Psiquiatria pela Associação
+Brasileira de Psiquiatria (ABP). Graduação em Medicina pela Faculdade
+de Medicina de Marília. Membro da ABP.
+Ana Gabriela Hounie
+Médica Psiquiatra. Doutorado em Ciências pela Faculdade de Medicina
+da Universidade de São Paulo (FMUSP). Especialização em Psiquiatria
+pela Universidade Federal de Pernambuco (UFPE). Graduação em
+Medicina pela UFPE. Membro da Society of Cannabis Clinicians.
+Anderson Sousa Martins-da-Silva
+Médico Psiquiatra. Mestrado em Psiquiatria pela Universidade de São
+Paulo (USP). Especialização em Psiquiatria pela Universidade Santo
+Amaro (UNISA). Especialização em Saúde Mental da Infância e
+Adolescência pela Unidade de Psiquiatria da Infância e Adolescência da
+Universidade Federal de São Paulo (Unifesp). Especialização em
+Dependência Química pela USP. Graduação em Medicina pela UNISA.
+
+--- PAGE 12 ---
+André Fernandes Silva
+Médico Psiquiatra. Residência em Psiquiatria pela Escola Paulista de
+Medicina da Universidade Federal de São Paulo (EPM-Unifesp).
+Graduação em Medicina pela Universidade Federal do Rio Grande do
+Norte (UFRN).
+André Lorenzetti
+Jornalista. MBA em Gestão Estratégica e Econômica de Negócios pela
+Faculdade Getulio Vargas (FGV). Especialização em Gestão Econômica
+de Empresas pela FGV. Graduação em Jornalismo pelas Faculdades
+Integradas Rio Branco.
+Andre Russowksy Brunoni
+Médico Psiquiatra. Doutorado em Neurociências pelo Instituto de
+Psicologia da Universidade de São Paulo (IP-USP). Especialização em
+Psiquiatria pelo Hospital das Clínicas da Faculdade de Medicina da USP
+(HC-FMUSP). Graduação em Medicina pela FMUSP. Professor
+Associado na FMUSP. Diretor do Serviço Interdisciplinar de
+Neuromodulação do Instituto de Psiquiatria (IPq) do HC-FMUSP.
+Andrea Feijó Mello
+Médica Psiquiatra. Doutorado em Ciências pela Universidade Federal de
+São Paulo (Unifesp). Mestrado em Psiquiatria pela Unifesp.
+Especialização em Psiquiatria pelo Hospital do Servidor Público
+Estadual de São Paulo. Graduação em Medicina pela Santa Casa de São
+Paulo. Professora Afiliada na Unifesp. Membro da Associação Brasileira
+de Psiquiatria (ABP).
+Angela Miranda Scippa
+Médica Psiquiatra. Doutorado em Ciências pela Universidade Federal de
+São Paulo (Unifesp). Especialização em Psiquiatria pela Associação
+
+--- PAGE 13 ---
+Brasileira de Psiquiatria (ABP). Graduação em Medicina pela
+Universidade Federal da Bahia (UFBA). Professora Titular na UFBA.
+Coordenadora do Centro de Estudos em Transtornos de Humor e
+Ansiedade (CETHA-UFBA). Membro da ABP. Membro da International
+Society of Bipolar Disorders. Membro Titular da Academia de Medicina
+da Bahia.
+Antonio E. Nardi
+Médico Psiquiatra. Doutorado em Psiquiatria e Saúde Mental pela
+Universidade Federal do Rio de Janeiro (UFRJ). Mestrado em Psiquiatria
+e Saúde Mental pela UFRJ. Especialização em Psiquiatria pela UFRJ.
+Graduação em Medicina pela UFRJ. Professor Titular na UFRJ. Membro
+da Academia Nacional de Medicina. Membro da Academia Brasileira de
+Ciências.
+Antonio Peregrino
+Médico Psiquiatra. Doutorado em Medicina Tropical (Imunologia) pela
+Universidade Federal de Pernambuco (UFPE). Mestrado em
+Neuropsiquiatria pela UFPE. Especialização em Psiquiatria pela UFPE.
+Graduação em Medicina pela UFPE. Professor Adjunto na Universidade
+de Pernambuco (UPE). Membro da Sociedade Pernambucana de
+Psiquiatria. Membro Titular da Academia Pernambucana de Medicina.
+Arthur Hirschfeld Danila
+Médico Psiquiatra. Especialização em Psiquiatria Forense e Psicoterapia
+pela Associação Brasileira de Psiquiatria (ABP). Especialização em
+Psiquiatria pelo Instituto de Psiquiatria do Hospital das Clínicas da
+Faculdade de Medicina da Universidade de São Paulo (IPq-HC-
+FMUSP). Graduação em Medicina pela FMUSP. Formação em Medicina
+do Estilo de Vida (MEV) pela Harvard Medical School e Certificação em
+MEV pelo International Board of Lifestyle Medicine. Coordenador do
+
+--- PAGE 14 ---
+Programa de Mudança de Hábito e Estilo de Vida (PROMEV) do IPq-
+HC-FMUSP e vice-presidente do Colégio Brasileiro de Medicina do
+Estilo de Vida (CBMEV), gestão 2023-2024. Fundador da Academia
+Nacional de Psicologia (ANPSI).
+Bibiana de Borba Telles
+Médica Psiquiatra. Especialização em Psiquiatria no Hospital de Clínicas
+de Porto Alegre (HCPA). Graduação em Medicina pela Universidade
+Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
+Carla Bicca
+Médica. Doutorado em Psicologia pela Pontifícia Universidade Católica
+do Rio Grande do Sul (PUCRS). Mestrado em Psicologia pela PUCRS.
+Especialização em Psicologia pelo Hospital Psiquiátrico de São Pedro
+(HPSP). Especialização em Terapia Cognitivo-Comportamental pelo
+Beck Institute. Especialização em Transtornos Aditivos pela
+Universidade Federal de São Paulo (Unifesp). Graduação em Medicina
+pela Universidade Federal do Rio Grande (FURG). Membro da Villa
+Janus.
+Carla Cavalheiro Moura
+Psicóloga. Especialização em Saúde Mental da Infância e Adolescência
+pela Faculdade de Ciências da Saúde de São Paulo (FACIS). Graduação
+em Psicologia pela Centro Universitário das Faculdades Metropolitanas
+Unidas (UniFMU). Professora da disciplina Supervisão e Intervenção
+Clínica do curso de Especialização em Dependências Tecnológicas:
+Intervenções Multidisciplinares da Universidade de Caxias do Sul
+(UCS). Coordenadora do grupo de Dependência Tecnológica do
+Ambulatório de Dependência Tecnológica do Instituto de Psiquiatria do
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São
+Paulo (IPq-HC-FMUSP).
+
+--- PAGE 15 ---
+Carlos Alberto Iglesias Salgado
+Médico Psiquiatra. Doutorado em Psiquiatria pela Universidade Federal
+do Rio Grande do Sul (UFRGS). Mestrado em Psiquiatria pela UFRGS.
+Especialização em Psiquiatria pela Associação Brasileira de Psiquiatria
+(ABP). Graduação em Medicina pela UFRGS. Professor Associado no
+Instituto Abuchaim. Membro da ABP. Membro da Associação de
+Psiquiatria do Rio Grande do Sul (APRS). Membro da Associação
+Brasileira de Estudos do Álcool e Outras Drogas (ABEAD). Diretor da
+Villa Janus.
+Carlos Henrique de Aragão Neto
+Psicólogo e Psicoterapeuta. Doutorado em Psicologia Clínica e Cultura
+pela Universidade de Brasília (UnB). Mestrado em Antropologia pela
+Universidade Federal do Piauí (UFPI). Especialização em Tanatologia
+pela Rede Nacional de Tanatologia (RNT). Especialização em Prevenção
+do Suicídio e Prevenção da Autolesão sem Intenção Suicída pelo
+Instituto Densidade Existencial (Idex). Graduação em Psicologia pelo
+Centro Universitário Facid Wyden (UNIFACID). Membro da
+International Society for the Study of Self-Injury (ISSS). Membro da
+International Association for Suicide Prevention (IASP). Representante
+da ISSS no Brasil (biênio 2023-2025). Psicólogo voluntário em
+expedições humanitárias em áreas remotas no Brasil e outros países.
+Carlos Toledo Cerqueira
+Médico Psiquiatra e Pesquisador. Pós-Doutoramento em Estratégia de
+Meganálise na interface entre Psicofarmacologia e Neuroimagem pela
+Faculdade de Medicina da Universidade de São Paulo (FMUSP).
+Doutorado em Ciências pela FMUSP, com concentração em Psiquiatria e
+Ensaio Farmcológico em Neuroimagem. Mestrado em Ciências pela
+FMUSP, com concentração em Psiquiatria e Neuroimagem Funcional.
+Especialização em Psiquiatria pela Santa Casa de Misericórdia de São
+Paulo. Graduação em Medicina pelo Centro Universitário Lusíada.
+
+--- PAGE 16 ---
+Colaborador do Laboratório de Neuroimagem em Psiquiatria (LIM/21)
+da FMUSP.
+Carmita H. N. Abdo
+Doutorado em Psiquiatria pela Faculdade de Medicina da Universidade
+de São Paulo (FMUSP). Especialização em Psiquiatria pela Associação
+Brasileira de Psiquiatria (ABP). Professora Associada no Departamento
+de Psiquiatria da FMUSP. Professora (Livre Docência) em Psiquiatria na
+FMUSP. Fundadora e coordenadora do Programa de Estudos em
+Sexualidade (ProSex) do Instituto de Psiquiatria e do Núcleo de
+Medicina Sexual do Hospital das Clínicas da FMUSP. Presidente da
+Associação Brasileira de Psiquiatria (ABP), triênio 2017-2019. Membro
+da International Society for Sexual Medicine (ISSM). Membro da
+Sociedad Latinoamericana de Medicina Sexual (SLAMS). Membro da
+Associação Brasileira de Estudos em Medicina e Saúde Sexual
+(ABEMSS).
+Cassiano Lopes de Castro
+Médico. Graduação em Medicina pela Faculdade de Medicina da
+Universidade do Vale do Taquari (Univates).
+Catarina de Moraes Braga
+Médica Psiquiatra. Mestrado em Neuropsiquiatria e Ciência do
+Comportamento pela Universidade Federal de Pernambuco (UFPE).
+Especialização em Psiquiatria pelo Hospital das Clínicas da UFPE.
+Graduação em Medicina pela UFPE. Professora do curso de Medicina na
+UFPE. Aperfeiçoamento em Sexualidade Humana pelo Instituto de
+Psiquiatria do Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo (IPq-HC-FMUSP). Coordenadora do
+Ambulatório de Sexualidade do Hospital das Clínicas da UFPE. Primeira
+
+--- PAGE 17 ---
+Secretária da Associação Brasileira de Estudos em Medicina e Saúde
+Sexual (ABEMSS), biênio 2023-2025.
+Christiane Ribeiro
+Médica Psiquiatra. Doutoranda em Medicina Molecular pela
+Universidade Federal de Minas Gerais (UFMG). Mestrado em Medicina
+Molecular pela UFMG. Formação em Terapia Cognitivo-
+Comportamental pelo Instituto Cognitivo. Graduação em Medicina pela
+UFMG. Membro da Comissão de Estudos e Pesquisa em Saúde Mental
+da Mulher da Associação Brasileira de Psiquiatria (ABP).
+Chei Tung Teng
+Médico Psiquiatra. Doutorado em Medicina pela Faculdade de Medicina
+da Universidade de São Paulo (FMUSP). Especialização em Psiquiatria
+pelo Instituto de Psiquiatria do Hospital das Clínicas da FMUSP (IPq-
+HC-FMUSP). Graduação em Medicina pela FMUSP. Professor
+Colaborador do HC-FMUSP.
+Clarice Gorenstein
+Professora Universitária. Doutorado em Farmacologia pelo Instituto de
+Ciências Biomédicas da Universidade de São Paulo (ICB-USP).
+Mestrado em Farmacologia pelo ICB-USP. Graduação em Farmácia e
+Bioquímica pela USP. Professora Associada no ICB-USP.
+Dalmo Duque dos Santos
+Educador. Mestrado em Comunicação e Cultura pela Universidade
+Paulista (Unip). Graduação em História pela Pontifícia Universidade
+Católica de São Paulo (PUC-SP).
+Daniel Augusto Mori Gagliotti
+
+--- PAGE 18 ---
+Médico Psiquiatra. Mestrando em Psiquiatria pelo Departamento de
+Psiquiatria da Faculdade de Medicina da Universidade de São Paulo
+(FMUSP). Especialização em Psiquiatria pelo Instituto de Psiquiatria do
+Hospital das Clínicas da FMUSP (IPq-HC-FMUSP). Graduação em
+Medicina pela FMUSP. Membro da World Professional Association for
+Transgender Health (WPATH). Membro da Associação Brasileira de
+Psiquiatria (ABP). Membro da American Psychological Association
+(APA).
+Daniel Lucas da Conceição Costa
+Médico Psiquiatra. Pós-Doutorado pela Faculdade de Medicina da
+Universidade de São Paulo (FMUSP). Doutorado em Ciências pela
+FMUSP. Especialização em Psiquiatria pela Universidade Estadual
+Paulista (Unesp). Graduação em Medicina pela Unesp.
+Daniela Reis e Silva
+Psicóloga. Doutorado em Psicologia Clínica pela Pontifícia Universidade
+Católica de São Paulo (PUC-SP). Mestrado em Psicologia Clínica pela
+PUC-SP. Especialização em Psicologia Clínica e Psicologia Hospitalar
+pelo Conselho Federal de Psicologia. Especialização em Intervenção
+Sistêmica com Famílias pela Faculdade de Direito de Vitória (FDV).
+Especialização em Medicina Psicossomática pela Escola Superior de
+Ciências da Santa Casa de Misericórdia de Vitória (EMESCAM). Fellow
+em Tanatologia pela Association for Death Education and Counseling
+(ADEC). Graduação em Psicologia pela Pontifícia Universidade Católica
+do Rio de Janeiro (PUC-Rio). Professora Convidada na PUC-SP.
+Diretora do Instituto Acalanto. Terapeuta Certificada e Supervisora em
+Eye Movement Desensitization and Reprocessing (EMDR).
+David Wilson
+
+--- PAGE 19 ---
+Médico Psiquiatra. Doutorado em Marcadores Inflamatórios do Estresse
+e Mindfulness pela Universidade Federal de São Paulo (Unifesp).
+Mestrado em Genética Molecular do Comportamento pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Especialização em
+Psiquiatria pelo Hospital do Servidor Público Estadual de São Paulo.
+Graduação em Medicina pela Escola Paulista de Medicina (EPM) da
+Unifesp. Membro do Instituto Veredas Treinamento. Formação em
+Psicanálise pelo Instituto de Pesquisas em Psicanálise da Escola
+Brasileira de Psicanálise. Instrutor em Mindfulness (MBHP e MBCT sob
+supervisão de Oxford). Diretor Clínico do Instituto Veredas Treinamento.
+Débora Costa Sena Pereira
+Médica Psiquiatra. Mestrado em Saúde Coletiva/Epidemiologia da
+Universidade Federal do Espírito Santo (UFES). Especialização em
+Psiquiatria pelo Instituto de Psiquiatria da Universidade Federal do Rio
+de Janeiro (IPUB/UFRJ). Colaboradora do Centro de Estudos e Pesquisa
+em Epidemiologia Psiquiátrica (Cepep) da UFES.
+Débora K. Kussunoki
+Médica Psiquiatra. Especialização em Psiquiatria pelo Instituto de
+Psiquiatria do Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo (IPq-HC-FMUSP). Psiquiatra do Centro de
+Obesidade e Diabetes do Hospital Alemão Oswaldo Cruz. Psiquiatra do
+Ambulatório de Obesidade e Síndrome Metabólica do Serviço de
+Endocrinologia do Hospital das Clínicas da FMUSP. Membro da
+Associação Brasileira para o Estudo da Obesidade e da Síndrome
+Metabólica (Abeso). Coordenadora Executiva de Psiquiatria da
+Comissão de Especialidades Associadas da Sociedade Brasileira de
+Cirurgia Bariátrica e Metabólica (COESAS-SBCBM).
+Déo de Almeida Boarati
+
+--- PAGE 20 ---
+Psicólogo. Pós-Graduando em Logoterapia e Análise Existencial pela
+FABAD. Graduação em Psicologia pela Universidade Anhembi
+Morumbi.
+Desirèe Monteiro Cordeiro
+Psicóloga. Mestrado em Ciências pelo Instituto de Psiquiatria do
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São
+Paulo (IPq-HC-FMUSP). Especialização em Psicodrama pela Sociedade
+de Psicodrama de São Paulo (SOPSP). Graduação em Psicologia pela
+Pontifícia Universidade Católica de São Paulo (PUC-SP). Membro da
+World Professional Association for Transgender Health (WPATH).
+Diógenes Munhoz
+Oficial do Corpo de Bombeiros Militar de São Paulo. Doutorado em
+Ciências Policiais de Segurança Pública pelo Centro de Altos Estudos da
+Polícia Militar de São Paulo. Mestrado em Ciências Policiais de
+Segurança Pública pela Academia de Polícia Militar do Barro Branco
+(APMBB). Graduação em Administração de Segurança Pública pela
+APMBB. Professor Titular na Escola Superior de Bombeiros de São
+Paulo. Idealizador da Técnica e do Curso de Abordagem Humanizada a
+Tentativas de Suicídio no Brasil.
+Ednéia de Paula
+Neuropsicóloga. Mestrado em Ciências da Saúde pelo Instituto de
+Psiquiatria do Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo (IPq-HC-FMUSP). Especialização em
+Neuropsicologia pelo Instituto Central do HC-FMUSP. Graduação em
+Psicologia pelo Centro Universitário das Faculdades Metropolitanas
+Unidas (UniFMU).
+Eduardo Pondé de Sena
+
+--- PAGE 21 ---
+Doutorado em Medicina e Saúde pela Universidade Federal da Bahia
+(UFBA). Mestrado em Medicina e Saúde pela UFBA. Especialização em
+Psiquiatria pela Associação Brasileira de Psiquiatria (ABP). Professor
+Associado de Farmacologia e Terapêutica no Departamento de
+Biorregulação do Instituto de Ciências da Saúde da UFBA. Professor
+Permanente no Programa de Pós-Graduação em Processos Interativos
+dos Órgãos e Sistemas do Instituto de Ciências da Saúde da UFBA.
+Elaine Henna
+Médica Psiquiatra. Doutorado em Psiquiatria pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Mestrado em
+Ciências – Psiquiatria pela FMUSP. Especialização em Psiquiatria pela
+Associação Brasileira de Psiquiatria (ABP). Graduação em Medicina
+pela Universidade de Mogi das Cruzes. Professora Assistente Doutora na
+Faculdade de Ciências Médicas e da Saúde da Pontifícia Universidade
+Católica de São Paulo (PUC-SP).
+Elisabeth Sene-Costa
+Mestrado em Ciências pelo Instituto de Psiquiatria do Hospital das
+Clínicas da Faculdade de Medicina da Universidade de São Paulo (IPq-
+HC-FMUSP). Especialização em Psiquiatria e Psicoterapia pela
+Universidade Federal de São Paulo (Unifesp). Ex-membro do Conselho
+Científico e Supervisora Técnico-Científica dos Facilitadores dos Grupos
+de Apoio Mútuo (GAM) da Associação Brasileira de Familiares, Amigos
+e Portadores de Transtornos Afetivos (Abrata). Presidente do Conselho
+Consultivo da Sociedade de Psicodrama de São Paulo.
+Esdras Cabus Moreira
+Doutorado em Arquitetura e Urbanismo pela Universidade Federal da
+Bahia (UFBA). Mestrado em Ciências da Saúde pela Johns Hopkins
+University. Mestrado em Saúde Pública pela UFBA. Especialização em
+
+--- PAGE 22 ---
+Psiquiatria pela UFBA. Graduação em Medicina pela UFBA. Fellow do
+Hubert H. Humphrey Fellowship/Fulbright Program entre 2021 e 2022.
+Professor Adjunto de Psiquiatria na UFBA. Coordenador do Centro de
+Estudos e Terapia de Abuso de Drogas da UFBA (CETAD/UFBA).
+Evelyn Kuczynski
+Médica Psiquiatra. Doutorado em Medicina pelo Departamento de
+Psiquiatria da Faculdade de Medicina da Universidade de São Paulo
+(FMUSP). Especialização em Psiquiatria pela Associação Brasileira de
+Psiquiatria (ABP). Especialização em Pediatria pela Sociedade Brasileira
+de Pediatria (SBP). Graduação em Medicina pela FMUSP.
+Aprimoramento em Terapia Comportamental-Cognitiva pelo
+Ambulatório de Ansiedade do Instituto de Psiquiatria do Hospital das
+Clínicas da FMUSP (IPq-HC-FMUSP). Membro Titular da ABP.
+Fábio Gomes de Matos e Souza
+Médico Psiquiatra. Doutorado em Psiquiatria pela University of
+Edinburgh. Mestrado em Farmacologia pela Universidade Federal do
+Ceará (UFC). Especialização em Psiquiatria pela Associação Brasileira
+de Psiquiatria (ABP). Graduação em Medicina pela UFC. Professor
+Titular na UFC. Membro da Associação de Psiquiatria do Estado do
+Ceará (APEC). Membro da ABP.
+Fabio Tapia Salzano
+Médico Psiquiatra. Mestrado em Ciências pela Faculdade de Medicina
+da Universidade de São Paulo (FMUSP). Especialização em Psiquiatria
+pelo Instituto de Psiquiatria do Hospital das Clínicas da FMUSP (IPq-
+HC-FMUSP). Graduação em Medicina pela FMUSP. Vice-coordenador
+do Programa de Transtornos Alimentares do HC-FMUSP.
+Fernanda S. Correia-Melo
+
+--- PAGE 23 ---
+Doutoranda em Medicina e Saúde pela Faculdade de Medicina da
+Universidade Federal da Bahia (UFBA). Especialização em Psiquiatria
+pela UFBA.
+Fernando Fernandes
+Doutorado em Medicina e Saúde pela Faculdade de Medicina da
+Universidade Federal da Bahia (UFBA). Especialização em Psiquiatria
+pelo Hospital Universitário Professor Edgard Santos da UFBA
+(HUPES/UFBA). Graduação em Medicina pela Universidade Estadual
+do Sudoeste da Bahia (UESB) e em Farmácia pela UFBA. Médica
+Assistente em Psiquiatria e preceptora do serviço de interconsulta
+piquiátrica do HUPES/UFBA.
+Flavio Milman Shansis
+Pós-Doutorado em Ginecologia e Obstetrícia pela Universidade Federal
+do Rio Grande do Sul (UFRGS). Doutorado em Ciências Médicas pela
+UFRGS. Mestrado em Ciências Biológicas/Bioquímica pela UFRGS.
+Especialização em Psiquiatria pelo Hospital das Clínicas de Porto Alegre
+(HCPA). Professor Adjunto de Clínica Médica na Universidade do Vale
+do Taquari (Univates). Professor Assistente de Psicologia
+Médica/Relação Médico-Paciente na Universidade do Vale do Rio dos
+Sinos (Unisinos).
+Francisco B. Assumpção Jr.
+Médico Psiquiatra da Infância e Adolescência. Doutorado em Psicologia
+pela Pontifícia Universidade Católica de São Paulo (PUC-SP). Pós-
+Doutorado, Doutorado e Mestrado em Psicologia pela PUC-SP. Professor
+(Livre-Docência) no Departamento de Psiquiatria da Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Professor Associado
+no Instituto de Psicologia da Universidade de São Paulo (IPUSP).
+
+--- PAGE 24 ---
+Membro da Academia Paulista de Medicina. Membro da Academia
+Paulista de Psicologia.
+Francisco Lotufo Neto
+Graduação em Medicina pela Fundação do ABC (FUABC). Professor
+Associado na Faculdade de Medicina e no Instituto de Psicologia da
+Universidade de São Paulo (USP).
+Frederico Navas Demetrio
+Médico Psiquiatra. Doutorado em Ciências pela Faculdade de Medicina
+da Universidade de São Paulo (FMUSP). Especialização em Psiquiatria
+pela FMUSP. Graduação em Medicina pela FMUSP. Médico Assistente
+no Instituto de Psiquiatria do Hospital das Clínicas da FMUSP (IPq-HC-
+FMUSP). Médico Supervisor e Coordenador no Ambulatório do Grupo
+de Estudos de Doenças Afetivas (GRUDA) do IPq-HC-FMUSP.
+Supervisor da Enfermaria de Ansiedade e Depressão (EAND) no IPq-
+HC-FMUSP. Presidente do Centro de Estudos (CEIP) do IPq-HC-
+FMUSP.
+Gabriela de Moraes Costa
+Médica Psiquiatra. Doutorado em Farmacologia pela Universidade
+Federal de Santa Maria (UFSM). Mestrado em Farmacologia pela
+UFSM. Especialização em Psiquiatria e Psiquiatria Forense pela
+Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
+Graduação em Medicina pela UFSM. Professora Adjunta na UFSM.
+Professora Adjunta na Universidade Franciscana de Santa Maria (UFN).
+Gislene C. Valadares
+Médica Psiquiatra. Doutorado em Saúde da Criança e do Adolescente
+pela Universidade Federal de Minas Gerais (UFMG). Mestrado em
+Farmacologia e Bioquímica Molecular pela UFMG. Especialização em
+
+--- PAGE 25 ---
+Psiquiatria pela Fundação Hospitalar do Estado de Minas Gerais
+(FHEMiG). Especialização em Saúde Mental em Saúde Pública pela
+Escola de Saúde Pública do Estado de Minas Gerais (ESP-MG).
+Especialização em Psiquiatria da Infância e Adolescência pela Fundação
+de Desenvolvimento da Pesquisa (Fundep) da UFMG; Psicanálise
+Bioniana. Graduação em Medicina pela UFMG. Membro da Associação
+Brasileira de Psiquiatria (ABP). Membro da International Association of
+Women’s Mental Health, Section of Women’s Mental Health da World
+Psychiatric Association (WPA). Membro da Associação Brasileira de
+Prevenção e Tratamento das Ofensas Sexuais.
+Gustavo Carneiro Gomes Leal
+Médico Psiquiatra. Residência em Psiquiatria pelo Instituto de
+Psiquiatria do Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo (IPq-HC-FMUSP). Graduação em Medicina
+pela Universidade Federal da Bahia (UFBA). Médico Assistente em
+Psiquiatria, Preceptor do Programa de Residência Médica em Psiquiatria
+e Preceptor da Enfermaria de Psiquiatria no Complexo Hospitalar
+Universitário Professor Edgard Santos da UFBA.
+Gustavo Turecki
+Professor and Chair of the Department of Psychiatry, McGill University.
+Director of the McGill Group for Suicide Studies. Head of the
+Depressive Disorders Program, Douglas Mental Health Institute.
+Helena Dias de Castro Bins
+Médica Psiquiatra Forense. Médica Judiciária do Tribunal de Justiça do
+Rio Grande do Sul. Doutorado em Ciências da Saúde pela Universidade
+Federal de Ciências da Saúde de Porto Alegre (UFCSPA). Mestrado em
+Ciência da Saúde pela UFCSPA. Especialização em Psiquiatria pelo
+Hospital Psiquiátrico São Pedro (HPSP). Especialização em Psiquiatria
+
+--- PAGE 26 ---
+Forense pela UFCSPA e pela Associação Brasileira de Psiquiatria
+(ABP). Especialização em Psicoterapia pela UFCSPA. Especialização
+em Psicoterapia de orientação analítica pela Universidade Federal do Rio
+Grande do Sul e Centro de Estudos Luís Guedes (UFRGS/CELG).
+Graduação em Medicina pela Universidade Luterana do Brasil
+(ULBRA). Membro da ABP. Membro da Associação de Psiquiatria do
+Rio Grande do Sul. Membro da Red Iberolatinoamericana de
+Investigación y Docencia en Salud Mental.
+Hermano Tavares
+Médico Psiquiatra. Doutorado em Psiquiatria pela Universidade de São
+Paulo (USP). Especialização em Psiquiatria pelo Instituto de Psiquiatria
+do Hospital das Clínicas da Faculdade de Medicina da USP (IPq-HC-
+FMUSP). Professor Associado na USP. Fundador e Coordenador do
+Programa Ambulatorial do Jogo Patológico (PRO-AMJO), do Programa
+Ambulatorial Integrado dos Transtornos do Impulso (PRO-AMITI) e do
+Programa de Psiquiatria e Saúde Mental Comunitária (PRO-PSICOM)
+do IPq-HC-FMUSP.
+Homero Vallada
+Médico Psiquiatra. Pós-Doutorado em Medicina pela King’s College.
+Professor Associado no Departamento de Psiquiatria da Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Livre-Docente na
+FMUSP. Graduação em Medicina pela Escola Paulista de Medicina da
+Universidade Federal de São Paulo (EPM-Unifesp).
+Humberto Correa
+Professor. Doutorado em Farmacologia pela Universidade Federal de
+Minas Gerais (UFMG). Mestrado em Farmacologia e Farmacoquímica
+pela Université René Decartes. Especialização em Psiquiatria pela
+
+--- PAGE 27 ---
+UFMG. Graduação em Medicina pela UFMG. Professor Titular na
+UFMG.
+Irismar Reis de Oliveira
+Médico Psiquiatra. Professor. Doutorado em Neurociências pela
+Universidade Federal da Bahia (UFBA). Especialização em Psiquiatria
+pela Université René Descartes. Graduado em Medicina pela UFBA.
+Professor Titular na UFBA. Professor (Livre-Docência) em Psiquiatria
+na UFBA. Membro da Associação Brasileira de Psiquiatria (ABP).
+Isabela Maria Seabra Leite
+Médica Psiquiatra. Especialização em Psiquiatria pela Universidade
+Federal de Minas Gerais (UFMG). Graduação em Medicina pela
+Universidade Federal do Piauí (UFPI).
+Jackeline Figueiredo Barbosa-Gomes
+Psicóloga. Mestrado em Psicologia pela Pontifícia Universidade Católica
+de Minas Gerais (PUC-Minas). Especialização em Eye Movement
+Desensitization and Reprocessing (EMDR) e Trauma pela EMDR
+Treinamento e Consultoria/Grupo Traumaclinic. Graduação em
+Psicologia pela Universidade Federal de Minas Gerais (UFMG).
+Professora Trainer of Trainer de EMDR da EMDR Treinamento e
+Consultoria/Grupo Traumaclinic. Membro da Associação Iberoamerica
+de Psicotrauma (AIBAPT). Membro da Associação Brasileira de
+Brainspotting, EMDR Treinamento e Consultoria. Trainer of Trainer de
+EMDR pela AIBAPT. Traumaclinic Full Trainer de EMDR pelo EMDR
+Institute e EMDR Iberoamerica. Psicoterapeuta Breve. Psicoterapeuta e
+Hipnoterapeuta Ericksoniana. Especialização em Análise e Interpretação
+de Sonhos.
+Janaína Cruz
+
+--- PAGE 28 ---
+Médica Psiquiatra. Especialização em Psiquiatra pela Faculdade de
+Medicina de Ribeirão Preto da Universidade de São Paulo (FMRP-USP).
+Graduação em Medicina pela FMRP-USP. Professora na Universidade
+Nove de Julho (UNINOVE).
+João Afif Abdo
+Médico. Mestrado em Urologia pela Universidade Federal de São Paulo
+(Unifesp). Especialização em Urologia pela Unifesp. Graduação em
+Medicina pela Unifesp. Professor de Especialização em Sexualidade
+Humana na Faculdade de Medicina na Universidade de São Paulo
+(FMUSP). Chefe do Serviço de Urologia do Hospital Santa Cruz.
+Membro da Sociedade Brasileira de Urologia (SBU). Membro da
+International Society for Sexual Medicine (ISSM). Membro da Sociedad
+Latinoamericana de Medicina Sexual (SLAMS). Membro da Associação
+Brasileira de Estudos em Medicina e Saúde Sexual (ABEMSS).
+João Felício Abrahão Neto
+Médico Psiquiatra. Mestrado em Ciências Médicas pelo Programa de
+Pós-Graduação em Oncologia e Ciências Médicas (PPGOCM) da
+Universidade Federal do Pará (UFPA). Especialização em Psiquiatria
+pelo Centro de Atenção Integral à Saúde Mental (CAISM) Franco da
+Rocha. Graduação em Medicina pela UFPA. Membro do Programa de
+Transtornos do Espectro Obsessivo-Compulsivo (PROTOC) no Hospital
+das Clínicas da Faculdade de Medicina da Universidade de São Paulo
+(HC-FMUSP).
+Joel Rennó Júnior
+Médico. Doutorado em Psiquiatria pela Faculdade de Medicina da
+Universidade de São Paulo (FMUSP). Especialização em Psiquiatria pela
+FMUSP. Graduação em Medicina pela FMUSP. Professor Colaborador
+na FMUSP. Coordenador da Comissão de Saúde Mental da Mulher da
+
+--- PAGE 29 ---
+Associação Brasileira de Psiquiatria (ABP). Diretor do Programa Saúde
+Mental da Mulher (Promulher) do Instituto e Departamento de
+Psiquiatria da FMUSP.
+Jônia Lacerda Felício
+Psicóloga. Doutorado em Psicologia Clínica pelo Instituto de Psicologia
+da Universidade de São Paulo (IPUSP). Mestrado em Psicologia Clínica
+pelo IPUSP. Especialização em Psicologia Hospitalar pelo Conselho
+Regional de Psicologia. Graduação em Psicologia pelo IPUSP.
+Professora Coordenadora de Curso no Centro Universitário das Américas
+(FAM).
+José Edson O. Araújo Filho
+Médico Psiquiatra. Residência em Psiquiatria pelo Hospital Universitário
+Professor Edgar Santos da Universidade Federal da Bahia
+(HUPES/UFBA). Especialização em Saúde Coletiva pelo Instituto de
+Saúde Coletiva da UFBA. Graduação em Medicina pela UFBA.
+Jose Gallucci Neto
+Mestrado em Psiquiatria pela Faculdade de Medicina da Universidade de
+São Paulo (FMUSP). Chefe da Unidade Metabólica e Diretor da Unidade
+de Vídeo-EEG do Instituto de Psiquiatria do Hospital das Clínicas da
+FMUSP (IPq-HC-FMUSP). Supervisor do Programa de Residência
+Médica do Instituto Bairral de Psiquiatria.
+José Paulo Fiks
+Médico Psiquiatra. Doutorado em Comunicação pela Escola de
+Comunicações e Artes da Universidade de São Paulo (ECA-USP).
+Mestrado em Comunicação e Semiótica pela Pontifícia Universidade
+Católica da São Paulo (PUC-SP). Especialização em Psiquiatria pelo
+Instituto de Assistência Médica ao Servidor Público Estadual (IAMSPE).
+
+--- PAGE 30 ---
+Graduação em Medicina pela Santa Casa de Misericórdia de São Paulo.
+Professor Afiliado na Universidade Federal de São Paulo (Unifesp).
+Membro do Departamento de Psiquiatria da Unifesp.
+Juliana Parada
+Especialização em Psiquiatra pela Universidade Estadual Paulista
+(Unesp).
+Juliana Surjan
+Médica Psiquiatra. Mestrado em Ciências pela Universidade Federal de
+São Paulo (Unifesp). Especialização em Psiquiatria pela Unifesp.
+Graduação em Medicina pela Unifesp. Coordenadora da Clínica de
+Cetamina e do Programa de Distúrbios Afetivos e Ansiosos (PRODAF)
+do Departamento de Psiquiatria da Unifesp.
+Kalil Duailibi
+Especialização em Psiquiatria pela Universidade de Santo Amaro
+(UNISA). Professor Adjunto e Coordenador de Psiquiatria na UNISA.
+Professor Titular de Psicopatologia no Instituto de Psiquiatria e
+Psicanálise da Infância e Adolescência.
+Karen Scavacini
+Psicóloga. Doutorado em Psicologia Escolar e do Desenvolvimento
+Humano pela Universidade de São Paulo (USP). Mestrado em Saúde
+Pública com ênfase em promoção de saúde mental e prevenção do
+suicídio pelo Karolinska Institutet. Especialização em Gestalt-terapia
+pelo Instituto Sedes Sapientiae. Graduação em Psicologia pela Faculdade
+Paulistana de Ciências e Letras. Membro da International Association for
+Suicide Prevention (IASP). Membro da Associação Brasileira de Estudos
+e Prevenção de Suicídio (ABEPS). Membro da Associação Brasileira dos
+Sobreviventes Enlutados por Suicídio (ABRASES).
+
+--- PAGE 31 ---
+Leandro Michelon
+Médico Psiquiatra. Doutorado e Mestrado em Ciências pelo
+Departamento de Psiquiatria da Faculdade de Medicina da Universidade
+de São Paulo (FMUSP), com foco em Farmacogenética e Epigenética em
+Transtorno Bipolar. Especialização em Psiquiatra pelo Instituto de
+Psiquiatria do Hospital das Clínicas da FMUSP (IPq-HC-FMUSP).
+Graduação em Medicina pela Universidade Federal do Paraná (UFPR).
+Leila Herédia
+Mestrado em Ciências Sociais pela Universidade Federal de Juiz de Fora
+(UFJF). Especialização em Comunicação Legislativa pelo Instituto
+Legislativo Brasileiro (ILB). Graduação em Jornalismo pela UFJF.
+Conselheira e Ouvidora voluntária do Centro de Valorização da Vida
+(CVV).
+Leonardo Baldaçara
+Médico Psiquiatra. Doutorado e Mestrado em Psiquiatria e Psicologia
+Médica pela Universidade Federal de São Paulo (Unifesp).
+Especialização em Psiquiatria pela Santa Casa de São Paulo. Professor
+Adjunto de Saúde Mental no Departamento de Medicina da
+Universidade Federal do Tocantins (UFT). Chefe do serviço de
+Psiquiatria do Hospital Geral de Palmas.
+Leonardo Machado
+Doutorado em Neuropsiquiatria pela Universidade Federal de
+Pernambuco (UFPE). Especialização em Psiquiatria pela Associação
+Brasileira de Psiquiatria (ABP). Professor Adjunto de Psiquiatria e
+Psicologia Médica no Departamento de Neuropsiquiatria da UFPE.
+Preceptor da Residência de Psiquiatria do Hospital das Clínicas da
+UFPE. Terapeuta Cognitivo-Processual pelo Trial-Based Cognitive
+Therapy Institute.
+
+--- PAGE 32 ---
+Letícia Mameri-Trés
+Médica Psiquiatra. Especialização em Psiquiatria pela Associação
+Brasileira de Psiquiatria (ABP). Graduação em Medicina pela Faculdade
+de Medicina de Campos. Médica do Trabalho pela Associação Médica
+Brasileira (AMB). Membro da ABP. Membro da AMB.
+Letícia Maria Furlanetto
+Médica Psiquiatra. Pós-Doutorado em Psiquiatria de Hospital Geral pela
+Rush University. Doutorado em Psiquiatria pela Universidade Federal do
+Rio de Janeiro (UFRJ). Mestrado em Psiquiatria pela UFRJ.
+Especialização em Psiquiatria pela Universidade do Estado do Rio de
+Janeiro (UERJ). Graduação em Medicina pela Universidade Federal
+Fluminense (UFF). Professora Associada Aposentada da Universidade
+Federal de Santa Catarina (UFSC). Membro da Associação Brasileira de
+Psiquiatria (ABP).
+Lisieux E. de Borba Telles
+Médica Psiquiatra Forense. Doutorado em Medicina pela Universidad
+Nacional de La Plata (UNLP). Mestrado em Psiquiatria Forense pela
+UNLP. Especialização em Psiquiatria pelo Hospital São Lucas da
+Pontifícia Universidade Católica do Rio Grande do Sul (HSL-PUCRS).
+Graduação em Medicina pela PUCRS. Professora Adjunta na Faculdade
+de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS).
+Membro da Associação Brasileira de Psiquiatria (ABP). Membro da
+Associação de Psiquiatria do Rio Grande do Sul (APRS). Membro do
+Centro de Estudos Luís Guedes (CELG). Supervisora da Residência em
+Psiquiatria Forense do Hospital das Clínicas de Porto Alegre (HCPA).
+Lívia Beraldo de Lima Bassères
+Médica Psiquiatra. Mestrado em Ciências pelo Instituto de Psiquiatria do
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São
+
+--- PAGE 33 ---
+Paulo (IPq-HC-FMUSP). Especialização em Psiquiatria pela Faculdade
+de Medicina do ABC (FMABC). Especialização em Dependência
+Química pelo Instituto de Psiquiatra da FMUSP. Graduação em Medicina
+pela Universidade Uniderp. Membro da Associação Brasileira de
+Psiquiatria (ABP). Paliativista pelo Instituto Pallium Latinoamérica.
+Trainee da Sociedade Brasileira de Psicologia Analítica.
+Lorena Lins Interaminense
+Especialização em Psiquiatria da Infância e Adolescência pela
+Universidade Estadual de Campinas (Unicamp).
+Lucas Alves Pereira
+Médico Psiquiatra e Psicogeriatria. Mestrado em Medicina e Saúde
+Humana pela Escola Bahiana de Medicina e Saúde Pública (EBMSP).
+Especialização em Psiquiatria e Psicogeriatria pela Associação Brasileira
+de Psiquiatria (ABP). Professor Adjunto de Psicofarmacologia no
+Departamento de Psiquiatria da EBMSP. Preceptor de interconsulta
+psiquiátrica das residências médicas do Hospital Juliano Moreira e da
+Clínica Ápice. Interconsultor do Hospital Português da Bahia.
+Coordenador de Psiquiatria da Faculdade ZARNS. Diretor Médico da
+Clínica Ciclos. Membro do Departamento de Psicogeriatria da ABP.
+Lucas Araújo-de-Freitas
+Professor. Doutorado em Medicina e Saúde pela Universidade Federal da
+Bahia (UFBA). Especialização em Psiquiatria pela UFBA. Graduação
+em Medicina pela Escola Bahiana de Medicina e Saúde Pública
+(EBMSP). Professor Adjunto da UFBA.
+Lucas de Castro Quarantini
+Pós-Doutorado pela Harvard School of Public Health. Doutorado pelo
+Departamento de Psiquiatria da Escola Paulista de Medicina da
+
+--- PAGE 34 ---
+Universidade Federal de São Paulo (EPM-Unifesp). Mestrado em
+Neurociências pela Faculdade de Medicina da Universidade Federal da
+Bahia (UFBA). Professor Adjunto de Psiquiatria e Professor Permanente
+no Programa de Pós-Graduação em Medicina e Saúde da UFBA.
+Luciana de Andrade Carvalho
+Médica Psiquiatra. Doutoranda pelo Instituto de Psiquiatria do Hospital
+das Clínicas da Faculdade de Medicina da Universidade de São Paulo
+(IPq-HC-FMUSP). Especialização em Psiquiatria pelo IPq-HC-FMUSP.
+Graduação em Medicina pela FMUSP. Colaboradora voluntária do
+Programa de Psiquiatria Social e Cultural (ProSol) do IPQ-HC-FMUSP.
+Luciana M. Sarin
+Médica Psiquiatra. Mestrado em Psiquiatria pela Escola Paulista de
+Medicina da Universidade Federal de São Paulo (EPM-Unifesp).
+Especialização em Psiquiatria pelo Departamento de Psiquiatria da EPM-
+Unifesp. Graduação em Medicina pela EPM-Unifesp. Membro da
+Associação Brasileira de Psiquiatria (ABP). Coordenadora do
+Observatório da EPM-Unifesp.
+Luciana Valença Garcia
+Médica Psiquiatra. Especialização em Psiquiatria pelo Hospital Ulysses
+Pernambucano. Graduação em Medicina pela Universidade Federal de
+Pernambuco (UFPE).
+Luísa Weber Bisol
+Médica Psiquiatra. Doutorado em Ciências Biológicas: Bioquímica pela
+Universidade Federal do Rio Grande do Sul (UFRGS). Especialização
+em Psiquiatria pelo Hospital São Lucas da Pontifícia Universidade
+Católica do Rio Grande do Sul (HSL-PUCRS). Graduação em Medicina
+pela PUCRS. Professora Adjunta na Universidade Federal do Ceará
+
+--- PAGE 35 ---
+(UFC). Membro da Associação de Psiquiatria do Estado do Ceará
+(APEC).
+Luiz Carlos Mabilde
+Professor e Supervisor Convidado dos Cursos de Psiquiatria,
+Psicoterapia e Supervisão do Centro de Estudos Luís Guedes da
+Universidade Federal do Rio Grande do Sul (CELG/UFRGS).
+Psicanalista Didata e Professor do Instituto de Psicanálise da Sociedade
+Psicanalítica de Porto Alegre (SPPA). In memoriam.
+Luiz Dieckmann
+Médico Psiquiatra e Professor. Mestrado em Psicobiologia pela Escola
+Paulista de Medicina da Universidade Federal de São Paulo (EPM-
+Unifesp). Especialização em Psiquiatria pela EPM-Unifesp. Graduação
+em Medicina pela EPM-Unifesp. Membro da Associação Brasileira de
+Psiquiatria (ABP).
+Maicon Bonaldo Dias
+Médico. Graduação em Medicina pela Faculdade de Medicina da
+Universidade do Vale do Taquari (Univates).
+Marcel V. Nunes
+Médico Psiquiatra e Psicogeriatra. Mestrado em Ciências (Psiquiatria e
+Psicologia Médica) pela Universidade Federal de São Paulo (Unifesp).
+Especialização em Psiquiatria pelo Instituto Bairral. Especialização em
+Dependência Química pela Unifesp. Especialização em Psiquiatria e
+Psicogeriatria pela Associação Brasileira de Psiquiatria (ABP).
+Graduação em Medicina pela Universidade Federal do Triângulo
+Mineiro (UFTM). Pesquisador do Centro de Pesquisas Clínicas BR
+Trials. Membro da ABP.
+
+--- PAGE 36 ---
+Marcelo Camargo Batistuzzo
+Professor. Especialização em Neuropsicologia e Avaliação Psicológica
+pelo Conselho Federal de Psicologia (CFP). Graduação em Psicologia
+pela Pontifícia Universidade Católica de São Paulo (PUC-SP). Professor
+do Curso de Psicologia na Faculdade de Ciências Humanas e da Saúde
+da PUC-SP. Professor Orientador do Departamento de Psiquiatria na
+Faculdade de Medicina da Universidade de São Paulo (FMUSP).
+Marcelo Feijó Mello
+Médico Psiquiatra. Pós-Doutorado em Neurociências pela Universidade
+Federal de São Paulo (Unifesp). Mestrado e Doutorado em Psiquiatria
+pelo Hospital do Servidor Público Estadual de São Paulo. Doutorado em
+Psiquiatria e Psicologia Médica pela Unifesp. Graduação em Medicina
+pela Faculdade de Ciências Médicas da Santa Casa de São Paulo.
+Professor Adjunto (Livre-Docência) do Departamento de Psiquiatria da
+Escola Paulista de Medicina da Unifesp e Professor Titular da Faculdade
+Israelita de Ciências da Saúde Albert Einstein. Membro da Associação
+Brasileira de Psiquiatria (ABP).
+Marcelo Pinheiro Machado Adelino
+Médico Psiquiatra. Mestrado em Ciências pelo Programa de Pós-
+Graduação em Psiquiatria e Psicologia Médica da Universidade Federal
+de São Paulo (Unifesp). Especialização em Psiquiatria pela Faculdade de
+Medicina de Marília (FAMEMA). Especialização em Psiquiatria e
+Psicogeriatria pela Associação Brasileira de Psiquiatria (ABP).
+Graduação em Medicina pelo Centro Universitário Barão de Mauá.
+Pesquisador do Centro de Pesquisas Clínicas BR Trials. Membro da
+ABP.
+Marcelo Q. Hoexter
+
+--- PAGE 37 ---
+Doutorado em Ciências pelo Departamento de Psiquiatria da Escola
+Paulista de Medicina da Universidade Federal de São Paulo (EPM-
+Unifesp). Especialização em Psiquiatria pela Unifesp. Vice-coordenador
+do Programa Transtornos do Espectro Obsessivo-Compulsivo (Protoc)
+do Departamento de Psiquiatria da Faculdade de Medicina da
+Universidade de São Paulo (FMUSP).
+Márcio Bernik
+Médico Psiquiatra. Doutorado em Medicina pelo Departamento de
+Psiquiatria da Faculdade de Medicina da Universidade de São Paulo
+(FMUSP). Especialização em Psiquiatria pelo Instituto de Psiquiatria do
+Hospital das Clínicas da FMUSP (IPq-HC-FMUSP). Graduação em
+Medicina pela FMUSP. Membro da Associação Brasileira de Psiquiatria
+(ABP). Coordenador do Programa de Ansiedade do IPq-HC-FMUSP.
+Maria Carmen Viana
+Médica Psiquiatra. PhD em Psiquiatria pelo Institute of Psychiatry,
+Psychology & Neuroscience, King’s College London. Pós-Doutorado em
+Psiquiatria pelo Departamento de Psiquiatria da Faculdade de Medicina
+da Universidade de São Paulo (FMUSP). Especialização em
+Epidemiologia e Estatística Médica na London School of Hygiene and
+Tropical Medicine, University of London. Especialização em Psiquiatria
+pela Escola Paulista de Medicina da Universidade Federal de São Paulo
+(EPM/Unifesp). Graduação em Medicina pela EPM/Unifesp. Professora
+Adjunta de Psicologia Médica do Departamento de Medicina Social da
+Universidade Federal do Espírito Santo (UFES). Coordenadora do
+Centro de Estudos e Pesquisa em Epidemiologia Psiquiátrica (CEPEP)
+do Programa de Pós-Graduação em Saúde Coletiva do Centro de
+Ciências da Saúde da UFES (PPGSC/CCS/UFES). Membro do World
+Mental Health Survey Initiative.
+
+--- PAGE 38 ---
+Maria Julia Kovács
+Psicóloga. Doutorado em Psicologia Escolar e Desenvolvimento
+Humano pelo Instituto de Psicologia da Universidade de São Paulo
+(IPUSP). Mestrado em Psicologia Escolar e Desenvolvimento Humano
+pelo IPUSP. Graduação em Psicologia pela Pontifícia Universidade
+Católica de São Paulo (PUC-SP). Professora Sênior do IPUSP. Membro
+da Academia Nacional de Cuidados Paliativos.
+Mariana Franciosi Tatsch
+Médica Psiquiatra. Doutorado em Psiquiatria pelo Instituto de Psiquiatria
+do Hospital das Clínicas da Faculdade de Medicina da Universidade de
+São Paulo (IPq-HC-FMUSP).
+Mercedes Alves
+Médica Psiquiatra. Especialização em Psiquiatria pela Associação
+Médica Brasileira (AMB). Graduação em Medicina pela Universidade
+Federal de Minas Gerais (UFMG). Professora Assistente Aposentada da
+Faculdade Ciências Médicas de Minas Gerais (FCM-MG). Membro da
+Associação Brasileira de Psiquiatria (ABP).
+Michel Haddad
+Médico Psiquiatra. Mestrado em Psiquiatria e Psicologia Médica pela
+Universidade Federal de São Paulo (Unifesp). Especialização em
+Psiquiatria pela Associação Brasileira de Psiquiatria (ABP). Graduação
+em Medicina pelo Centro Universitário Barão de Mauá. Preceptor da
+Residência Médica em Psiquiatria do Instituto de Assistência Médica ao
+Servidor Público Estadual (IAMSPE). Diretor do Instituto Brasileiro de
+Farmacologia Prática (BIPP).
+Michele de Oliveira Gonzalez
+
+--- PAGE 39 ---
+Médica Psiquiatra. Especialização em Psiquiatria pela Faculdade de
+Medicina do ABC (FMABC). Pós-Graduação em Educação Médica com
+ênfase em Metodologias Ativas. Graduação em Medicina pela FMABC.
+Professora da Disciplina de Saúde Mental no Instituto de Ensino
+Superior de Indaiatuba (IESI). Médica Psiquiatra voluntária do Programa
+de Transtornos Alimentares (AMBULIM) do Instituto de Psiquiatria do
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São
+Paulo (IPq-HC-FMUSP).
+Miguel Angelo Boarati
+Médico. Especialização em Psiquiatria da Infância e Adolescência pelo
+Instituto de Psiquiatria do Hospital das Clínicas da Faculdade de
+Medicina da Universidade de São Paulo (IPq-HC-FMUSP). Graduação
+em Medicina pela Faculdade de Medicina de Ribeirão Preto (FMRP-
+USP). Membro da Academia Americana de Psiquiatria Infantil. Médico
+Colaborador do Programa de Transtornos Afetivos na Infância (PRATA)
+do IPq-HC-FMUSP.
+Milena França
+Médica Psiquiatra Forense. Doutorado em Ciências da Saúde pela
+Universidade de Pernambuco (UPE). Mestrado em Ciências da Saúde
+pela UPE. Especialização em Psiquiatria e Psiquiatria Forense pela
+Universidade Federal do Rio de Janeiro (UFRJ). Graduação em
+Medicina pela UPE. Professora Assistente de Psiquiatria na UPE.
+Miriam Gorender
+Doutorado em Ciências da Saúde pelo Instituto de Psiquiatria da
+Universidade Federal do Rio de Janeiro (UFRJ). Psicanalista pelo
+Círculo Psicanalítico da Bahia. Professora Associada do Departamento
+de Neurociências e Saúde Mental na Universidade Federal da Bahia
+
+--- PAGE 40 ---
+(UFBA). Conselheira do Conselho Regional de Medicina do Estado da
+Bahia (CREMEB).
+Moacyr Rosa
+Médico Psiquiatra. Doutorado em Psiquiatria pela Universidade de São
+Paulo (USP). Mestrado em Psiquiatria pela USP. Especialização em
+Psiquiatria pela Santa Casa de Misericórdia de São Paulo. Graduação em
+Medicina pela Santa Casa de Misericórdia de São Paulo. Professor
+Afiliado na Universidade Federal de São Paulo (Unifesp). Membro do
+Instituto de Psiquiatria Avançada e Neuroestimulação (IPAN).
+Nathalia Seminário Gabioneta
+Médica Psiquiatra. Especialização em Psiquiatra da Infância e
+Adolescência pela Universidade Estadual de Campinas (Unicamp).
+Graduação em Medicina pela Universidade Federal de Roraima (UFRR).
+Médica-colaboradora do Programa de Dependências Tecnológicas do
+Programa Ambulatorial Integrado dos Transtornos do Impulso (PRO-
+AMITI) do Instituto de Psiquiatria do Hospital das Clínicas da Faculdade
+de Medicina da Universidade de São Paulo (IPq-HC-FMUSP).
+Neila Maria Melo Campos
+Especialização em Políticas Públicas e Educação pela Universidade
+Federal de Mato Grosso do Sul (UFMS). Voluntária e Presidente da
+Associação Brasileira de Familiares, Amigos e Portadores de
+Transtornos Afetivos (Abrata) nas gestões 2015/2017 e 2017/2019.
+Neury J. Botega
+Médico Psiquiatra. Doutorado em Saúde Mental pela Universidade
+Estadual de Campinas (Unicamp). Mestrado em Saúde Mental pela
+Unicamp. Especialização em Psiquiatria pela Unicamp. Graduação em
+
+--- PAGE 41 ---
+Medicina pela Unicamp. Professor Titular na Unicamp. Membro da
+Associação Brasileira de Estudos e Prevenção de Suicídio (ABEPS).
+Nicolas Lauxen Konrad
+Graduação em Medicina pela Universidade do Vale do Taquari
+(Univates). Certificação do Centro de Treinamento e Simulação de
+Emergências Médicas, Advanced Cardiologic Life Support (ACLS).
+Nicole Rezende da Costa
+Médica Psiquiatra. Colaboradora e pesquisadora do Ambulatório
+Integrado dos Transtornos do Impulso (PRO-AMITI) do Instituto de
+Psiquiatria do Hospital das Clínicas da Faculdade de Medicina da
+Universidade de São Paulo (IPQ-HC-FMUSP).
+Nina Leão Marques Valente
+Doutorado em Ciências pela Universidade Federal de São Paulo
+(Unifesp). Médica Assistente e Pesquisadora do Serviço de Assistência e
+Pesquisa em Violência e Estresse Pós-Traumático (Prove) do
+Departamento de Psiquiatria da Unifesp.
+Pedro Fonseca Zuccolo
+Psicólogo. Doutorado em Psicologia Experimental pela Universidade de
+São Paulo (USP). Mestrado em Psicologia Experimental pela USP.
+Especialização em Terapia Comportamental pelo Centro Paradigma de
+Análise do Comportamento. Graduação em Psicologia pela Pontifícia
+Universidade Católica de São Paulo (PUC-SP).
+Quirino Cordeiro Júnior
+Professor Adjunto e Chefe do Departamento de Psiquiatria da Escola
+Paulista de Medicina da Universidade Federal de São Paulo
+
+--- PAGE 42 ---
+(EPM/Unifesp). Professor Adjunto do Departamento de Psiquiatria da
+Faculdade de Ciências Médicas da Santa Casa de São Paulo. Diretor do
+Hub de Cuidados em Crack e Outras Drogas do Estado de São Paulo.
+Rafael Bello Corassa
+Epidemiologista. Doutorando em Medicina Tropical e Saúde Pública
+pela Universidade Federal de Goiás (UFG). Mestrado em Saúde Coletiva
+pela Universidade Federal do Espírito Santo (UFES). Especialização em
+Impactos da Violência da Saúde pela Escola Nacional de Saúde Pública
+da Fundação Oswaldo Cruz (ENSP/Fiocruz). Graduação em Odontologia
+pela Universidade Federal dos Vales do Jequitinhonha e Mucuri
+(UFVJM). Membro do Centro de Estudos e Pesquisas em Epidemiologia
+Psiquiátrica da UFES.
+Raphael de O. Cerqueira
+Médico Psiquiatra. Especialização em Psiquiatria pela Escola Paulista de
+Medicina da Universidade Federal de São Paulo (EPM-Unifesp).
+Graduação em Medicina pela EPM-Unifesp. Voluntário do Grupo de
+Atenção às Psicoses Iniciais (GAPi).
+Raquel Carvalho Hoersting
+Psicóloga Clínica. Pós-Doutorado e Mestrado em Psicologia Clínica pela
+University of North Texas. Especialização em Eye Movement
+Desensitization and Reprocessing (EMDR) pelo EMDR Institute.
+Graduação em Psicologia pela Universidad San Francisco de Quito.
+Professora Associada da University of Prince Edward Island.
+Supervisora e Terapeuta Certificada pela Associação Ibero-Americana de
+Psicotrauma (AIBAPT). Certified Therapist, Certified Consultant e
+Basic Trainer pela EMDR International Association (EMDRIA). Full
+Trainer pelo EMDR Institute.
+
+--- PAGE 43 ---
+Regina Margis
+Médica Psiquiatra. Doutorado em Clínica Médica pela Universidade
+Federal do Rio Grande do Sul (UFRGS). Mestrado em Bioquímica pela
+UFRGS. Especialização em Psiquiatria pelo Hospital de Clínicas de
+Porto Alegre (HCPA) e pela Associação Brasileira de Psiquiatria (ABP).
+Graduação em Medicina pela Pontifícia Universidade Católica do Rio
+Grande do Sul (PUCRS). Professora na Associação de Psiquiatria Cyro
+Martins (CCYM). Membro da ABP. Membro da CCYM. Membro da
+Associação Brasileira de Medicina de Tráfego (ABRAMET). Membro
+da Associação Brasileira do Sono (ABSONO). Formação em Terapias
+Cognitivas, Área de Atuação em Medicina do Sono. Especialização em
+Medicina do Tráfego.
+Renata de Melo Felipe da Silva
+Médica Psiquiatra. Doutorado pelo Instituto de Psiquiatria do Hospital
+das Clínicas da Faculdade de Medicina da Universidade de São Paulo
+(IPq-HC-FMUSP). Especialização em Psiquiatria pela Universidade
+Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
+Renato Luiz Marchetti
+Médico Psiquiatra. Doutorado em Psiquiatria pelo Departamento de
+Psiquiatria da Faculdade de Medicina da Universidade de São Paulo
+(FMUSP). Especialização em Psiquiatria pelo Instituto de Psiquiatria do
+Hospital das Clínicas da FMUSP (IPq-HC-FMUSP). Graduação em
+Medicina pela FMUSP. Coordenador do Projeto de Epilepsia e
+Psiquiatria (PROJEPSI) do IPq-HC-FMUSP.
+Ricardo Barcelos-Ferreira
+Médico Psiquiatra e Professor Universitário. Doutorado em Psiquiatria
+pela Faculdade de Medicina da Universidade de São Paulo (FMUSP).
+Especialização em Psiquiatria pela FMUSP. Especialização em
+
+--- PAGE 44 ---
+Psiquiatria Geriátrica pela Associação Brasileira de Psiquiatria (ABP) e
+Associação Médica Brasileira (AMB). Graduação em Medicina pela
+Universidade Federal de Juiz de Fora (UFJF). Professor Adjunto na
+UFJF. Membro Titular do Departamento de Psicogeriatria da ABP.
+Membro do comitê Executivo da International Society to Advance
+Alzheimer Research and Treatment (ISTAART).
+Ricardo Nogueira Krause
+Perito do Juízo Federal. Professor do Instituto de Terapia Cognitivo
+Comportamental (InTCC) e do InTCC Rio. International Fellow da
+American Psychiatric Association (APA). Membro da American
+Academy of Child and Adolescent Psychiatry (AACAP). Presidente
+Nacional da Associação Brasileira de Neurologia e Psiquiatria Infantil e
+Profissões Afins (Abenepi), gestão de 2018-2020. Presidente do XXIV
+Congresso Nacional e do IV Congresso Nacional da Abenepi. Membro
+Fundador do Comitê Permanente para Estudo e Prevenção de Violência e
+Abuso contra Crianças e Adolescentes da Abenepi. Responsável pelo
+atendimento de crianças e adolescentes da força-tarefa da Associação
+Brasileira de Psiquiatria (ABP) na tragédia das chuvas na Região Serrana
+do Rio de Janeiro em 2011.
+Rodrigo C. Marques
+Médico Psiquiatra. Doutorado em Neuropsiquiatria e Ciências do
+Comportamento pela Universidade Federal de Pernambuco (UFPE).
+Especialização em Psiquiatria pelo Hospital das Clínicas da UFPE.
+Graduação em Medicina pela Faculdade Pernambucana de Saúde.
+Professor Adjunto na UFPE.
+Rodrigo Menezes Machado
+Médico Psiquiatra. Especialização em Psiquiatria pela Santa Casa de
+Misericórdia de São Paulo. Graduação em Medicina pela Universidade
+
+--- PAGE 45 ---
+Cidade de São Paulo. Psiquiatra Colaborador do Ambulatório Integrado
+dos Transtornos do Impulso (PRO-AMITI) do Instituto de Psiquiatria do
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São
+Paulo (IPQ-HC-FMUSP)
+Rodrigo Nogueira Borghi
+Médico Psiquiatra. Especialização em Psiquiatria pelo Hospital Jurandyr
+Manfredini e pelo Instituto Municipal de Assistência à Saúde Juliano
+Moreira (Rio de Janeiro, RJ). Graduação em Medicina pela Universidade
+Iguaçu (UNIG). Professor Visitante no Instituto Bairral de Psiquiatria.
+Docente no Instituto Brasileiro de Farmacologia Prática (BIPP).
+Preceptor da Residência Médica em Psiquiatria na Faculdade São
+Leopoldo Mandic. Fellow Internacional da American Psychiatric
+Association (APA). Membro do Neuroscience Education Institute (NEI).
+Membro do European College of Neuropsychopharmacology (ECNP).
+Membro da World Federation of Attention Deficit Hyperactivity
+Disorder. Membro da Associação Brasileira do Déficit de Atenção
+(ABDA).
+Roseli Gedanke Shavitt
+Médica Psiquiatra. Pós-Doutorado pela Faculdade de Medicina da
+Universidade de São Paulo (FMUSP). Doutorado e Mestrado em
+Psiquiatria pela FMUSP. Especialização em Psiquiatria pelo Instituto de
+Psiquiatria do Hospital das Clínicas da FMUSP (IPq-HC-FMUSP).
+Professora Colaboradora do Departamento de Psiquiatria da FMUSP.
+Membro do Programa Transtornos do Espectro Obsessivo-Compulsivo
+(PROTOC) do IPq-HC-FMUSP.
+Rosilda Antonio
+Médica Psiquiatra. Especialização em Psiquiatria pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Graduação em
+
+--- PAGE 46 ---
+Medicina pela FMUSP. Membro da Associação Brasileira de Amigos,
+Familiares e Portadores de Transtornos Afetivos (Abrata). Vice-
+presidente do Conselho Científico da Abrata.
+Rosylane N. Mercês Rocha
+Cirurgiã Geral, Médica Perita e Médica do Trabalho. Doutorado em
+Bioética pela Universidade do Porto. Especialização em Medicina do
+Trabalho pela Universidade Federal do Estado do Rio de Janeiro
+(Unirio). Especialização em Medicina do Trabalho pela Associação
+Médica Brasileira (AMB). Especialização em Medicina Legal e Perícia
+Médica pela AMB. Pós-graduação em Valoração do Dano Corporal pela
+Universidade de Coimbra. Professora Supervisora da Residência de
+Medicina do Trabalho do Departamento de Pós-Graduação da Escola
+Superior de Ciências da Saúde/Fundação de Ensino e Pesquisa em
+Ciências da Saúde (ESCS/FEPECS). Membro do board do International
+Commission on Occupational Health (ICOH). Segunda vice-presidente
+do Conselho Federal de Medicina (CFM). Ex-presidente da Associação
+Nacional da Medicina do Trabalho (2019-2022).
+Sarah Cristina Zanghellini Rückl
+Médica Psiquiatra. Doutorado em Medicina pela Universität Heidelberg.
+Especialização em Psicologia Clínica pela Pontifícia Universidade
+Católica do Paraná (PUCPR). Graduação em Medicina pela
+Universidade José do Rosário Vellano. Professora Adjunta na
+Universidade Federal do Paraná (UFPR). Professora de Pós-Graduação
+na Universidade Tuiuti do Paraná.
+Sérgio Tamai
+Médico Psiquiatra. Doutorado em Psiquiatria pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Especialização em
+Psiquiatria pelo Instituto de Psiquiatria do Hospital das Clínicas da
+
+--- PAGE 47 ---
+FMUSP (IPq-HC-FMUSP). Graduação em Medicina pela FMUSP.
+Professor Assistente da Faculdade de Ciências Médicas da Santa Casa de
+São Paulo. Membro da Associação Brasileira de Psiquiatria (ABP).
+Táki Athanássios Cordás
+Médico Psiquiatra. Doutorado em Psiquiatria pela Universidade de São
+Paulo (USP). Professor do Programa de Pós-Graduação do
+Departamento de Psiquiatria da USP. Professor do Programa de
+Neurociências e Comportamento do Instituto de Psicologia da USP.
+Professor do Programa de Fisiopatologia Experimental da Faculdade de
+Medicina da USP (FMUSP). Coordenador da Assistência Clínica do
+Instituto de Psiquiatria do Hospital das Clínicas da FMUSP (IPq-HC-
+FMUSP). Coordenador do Programa de Transtornos Alimentares
+(AMBULIM) da FMUSP.
+Tássia Callai
+Médica. Residência em Hematologia e Hemoterapia pelo Hospital de
+Clínicas de Porto Alegre (HCPA). Especialização em Medicina Interna
+pelo Hospital São Lucas da Pontifícia Universidade Católica do Rio
+Grande do Sul (HSL-PUCRS). Graduação em Medicina pela
+Universidade de Santa Cruz do Sul (UNISC).
+Thiago Viegas Gomes Lins
+Médico Psiquiatra. Especialização em Psiquiatria pela Universidade de
+São Paulo (USP). Graduação em Medicina pela Universidade Federal da
+Paraíba (UFPB).
+Tiago C. Ramacciotti
+Especialização em Psiquiatria pelo Hospital Universitário Professor
+Edgard Santos da Universidade Federal da Bahia (HUPES/UFBA).
+
+--- PAGE 48 ---
+Psiquiatra no Centro de Atenção Psicossocial (CAPS) Nise da Silveira,
+Salvador, Bahia. Graduação em Medicina pela UFBA.
+Valéria Barreto Novais
+Doutorado em Farmacologia pela Universidade Federal do Ceará (UFC).
+MPhil em Psiquiatria pela University of Edinburgh. Especialização em
+Psiquiatria pela Associação Brasileira de Psiquiatria (ABP). Membro
+Internacional da American Psychiatric Association (APA). Sócia
+Fundadora da Associação em Defesa da Saúde Mental (ADSM).
+Victoria Alexandre Silva de Almeida
+Psicóloga. Mestranda no Programa de Pós-Graduação em Saúde pela
+Universidade Federal de Juiz de Fora (UFJF). Pós-graduanda em Terapia
+Cognitivo-Comportamental pelo Núcleo Interdisciplinar em Saúde
+Mental (NEISME). Graduação em Psicologia pela UniAcademia.
+Pesquisadora no Núcleo de Pesquisa em Espiritualidade e Saúde da
+UFJF. Idealizadora e fundadora do NIVV (Nenhuma Ideia Vale uma
+Vida), organização que visa a disseminação de conhecimento sobre a
+prevenção e posvenção do suicídio. Facilitadora e cofundadora do Grupo
+de Apoio ao Luto por Suicídio, realizado em parceria com a Ágape –
+Centro de Terapia Cognitivo-Comportamental.
+Vinicius Andrade
+Médico Psiquiatra. Especialização em Psiquiatria pelo Complexo
+Hospitalar do Juqueri. Graduação em Medicina pela Universidade
+Federal da Grande Dourados (UFGD). Colaborador no Ambulatório de
+Transtornos do Impulso do Instituto de Psiquiatria do Hospital das
+Clínicas da Faculdade de Medicina da USP (IPq-HC-FMUSP).
+Vitor Almeida
+
+--- PAGE 49 ---
+Médico. Residente de Psiquiatria do Hospital Universitário Professor
+Edgard Santos da Universidade Federal da Bahia (HUPES/UFBA).
+Graduação em Medicina pelo Instituto de Ciências e Saúde das
+Faculdades Unidas do Norte Minas (FUNORTE).
+Walmor João Piccinini
+Médico Psiquiatra. Especialização em Psiquiatria pela Associação
+Brasileira de Psiquiatria (ABP). Graduação em Psiquiatria pela
+Faculdade de Medicina de Porto Alegre da Universidade Federal do Rio
+Grande do Sul (UFRGS). Professor de História da Psiquiatria na
+Associação de Psiquiatria Cyro Martins e na Fundação Universitária
+Mário Martins. Editor do Jornal Eletrônico Psychiatry Online Brasil.
+Autor do Índice Bibliográfico Brasileiro de Psiquiatria.
+Yuan-Pang Wang
+Médico Psiquiatra. Doutorado em Ciências da Saúde pela Faculdade de
+Medicina da Universidade de São Paulo (FMUSP). Mestrado em
+Psiquiatria pela FMUSP. Especialização em Psiquiatria pela FMUSP.
+Graduação em Medicina pela FMUSP.
+
+--- PAGE 50 ---
+Com mais de quatro décadas no exercício profissional da Psiquiatria, tive
+a felicidade de poder fazer a segunda edição deste projeto que se iniciou
+com um grato convite da Editora Guanabara Koogan, do Grupo Editorial
+Nacional (GEN). Pude atualizar muitos capítulos, o que, após 5 anos da
+primeira edição, já se fazia necessário. A simplicidade, que me
+acompanha há muitos anos, continua minha companheira, mas a
+exigência de poder melhorar o livro, além de incluir temas importantes da
+atualidade, esteve presente e sem qualquer interferência. Tive novamente
+o privilégio de contar com um seleto grupo de amigos colaboradores, de
+todo o território nacional, escolhidos de acordo com sua especialização
+acadêmica, sua prática clínica e seu reconhecido valor profissional na área
+de atuação. Muitas vezes ouvi: “para você, faço com prazer.” Sentir as
+respostas afirmativas de cada colaborador da primeira edição, bem como
+dos novos convidados, foi uma imensa alegria para mim. Todos ficaram
+honrados com o convite, e não houve nenhuma recusa, em tempos de
+sobrecarga para todos nós. Sou profundamente grata aos seus esforços e à
+seriedade com que se dedicaram a mais esta tarefa. O foco sempre foi a
+qualidade, que permite a maior difusão de conhecimento atualizado –
+tudo isso com grande sensibilidade, riqueza de experiências e vivências
+para mobilizar o leitor na busca por informações, o que resultará em
+benefício a muitos pacientes. A proposta deste livro tornou-se tão
+complexa que faz crescer em mim um entusiasmo que parece não ter fim
+
+--- PAGE 51 ---
+cada vez que encontro pessoas que me dizem coisas como eu tenho seu
+livro, adoro seu livro, indico para meus alunos da residência, seu livro
+está na minha mesa, sempre abro para ler. Este livro passou a ser uma
+referência para muitos que desejam estudar, ampliar conhecimento,
+atualizar, confirmar… Enfim, ler sobre os estudos em Psiquiatria.
+Um especial agradecimento a meus filhos, Elaine Cristina e Sérgio
+Alexandre, que sempre me incentivaram nas minhas empreitadas.
+Finalmente, a minha gratidão à Editora Guanabara Koogan, do GEN,
+que confiou a mim novamente a coordenação desta valiosa obra.
+Alexandrina Meleiro
+Outubro de 2023
+
+--- PAGE 52 ---
+O tempo passou e, 5 anos após a primeira edição, surge a segunda,
+totalmente atualizada e com mais conteúdo. Como tudo na vida é sempre
+um novo aprendizado, assumimos esse desafio e conseguimos produzir
+um compêndio de Psiquiatria sem que resultasse em um livro prolixo,
+pesado e desinteressante. Ao contrário: seu texto é claro, preciso e
+agradável, para que o leitor sinta prazer em aprender com ele. Os
+capítulos sucedem-se de modo coerente, dando oportunidade ao leitor de
+quase vivenciar a maravilha dos diversos temas em Psiquiatria. Na
+organização deste livro, tive o cuidado de selecionar criteriosamente o
+time de colaboradores, movida pelo desejo de dividir este projeto com
+amigos autores de todo o território nacional. Cada um com sua expertise,
+mas também com suas individualidades e idiossincrasias. Juntar
+diferentes mentes em um mesmo capítulo foi um labor interessante. Esta
+obra continua com a pretensão de alcançar o maior número de
+profissionais, pesquisadores e estudantes que tenham alguma relação
+com a Psiquiatria, seja na área da Saúde, inclusive da Saúde Mental, seja
+em áreas coligadas, como o Direito.
+Na primeira parte, abordamos os aspectos históricos da Psiquiatria, a
+influência da cultura nas doenças mentais, a relação entre religiosidade,
+espiritualidade e transtornos mentais, discutindo também os aspectos
+genéticos e os estudos epidemiológicos.
+
+--- PAGE 53 ---
+O segundo bloco apresenta e analisa criticamente as classificações
+diagnósticas em Psiquiatria com base nos critérios mais atuais da
+American Psychiatric Association, com seu manual na quinta edição
+revisada, e da Organização Mundial da Saúde, inclusive discutindo as
+mudanças propostas pela CID-11. Essa segunda parte conta ainda com
+capítulos sobre instrumentos de avaliação em Psiquiatria, avaliação
+neuropsicológica, exames laboratoriais, exames de imagem, entrevista
+clínico-psiquiátrica, psicopatologia do exame mental, além do acréscimo
+do capítulo sobre teste farmacogenômico, de grande importância na
+atualidade.
+A terceira parte “abre o leque” de todos os transtornos mentais:
+transtornos secundários a doenças orgânicas; esquizofrenia e outros
+transtornos psicóticos; transtornos bipolar, depressivo e de ansiedade;
+transtorno de dependência a substâncias psicoativas; transtornos de
+sintomas somáticos, obsessivo-compulsivo, de estresse pós-traumático e
+alimentares; transtornos da sexualidade humana e disfunções sexuais;
+transtornos parafílicos e disforia de gênero; transtornos do sono;
+transtornos dolorosos; finalizando com os transtornos de personalidade.
+Na quarta parte encontram-se os tratamentos propostos em
+Psiquiatria de acordo com as principais escolas da psicoterapia, com
+destaque para a terapia cognitivo-comportamental, a psicoterapia
+psicanalítica e mindfulness, além da inclusão de um capítulo sobre Eye
+Movement Desensitization and Reprocessing (EMDR), tratamento muito
+utilizado em determinadas situações, um recurso valioso. Ao abordar o
+tratamento psicofarmacológico, destacamos conceitos em
+psicofarmacologia e as diversas classes de medicamentos, contemplando
+também o manejo farmacológico na gravidez e na lactação, além dos
+tratamentos biológicos.
+O quinto bloco foi dedicado à saúde mental de pacientes especiais:
+mulheres, crianças, adolescentes e idosos, além dos próprios médicos,
+que, por vezes, também se veem na posição de pacientes – o leitor
+familiarizado com a minha trajetória sabe o quão importante é esse tema
+
+--- PAGE 54 ---
+para mim. E, felizmente, pude acrescentar um capítulo especial sobre
+violências cometidas contra pessoas vulneráveis.
+Na sequência, a sexta parte apresenta questões clínicas importantes,
+como transtorno factício e simulação, obesidade, cirurgia bariátrica e
+suas consequências, educação para a morte com dignidade,
+psicoeducação aplicada e automutilação sem intenção suicida. O capítulo
+exclusivamente dedicado ao suicídio abrange comportamento suicida,
+abordagem técnica a tentativas de suicídio no pré-atendimento hospitalar,
+estratégias preventivas e tratamento do comportamento suicida.
+Acrescentamos capítulo sobre Saúde Mental, educação e prevenção de
+suicídio, além de atualizar os que tratam de posvenção a sobreviventes
+do suicídio e do papel do Centro de Valorização da Vida. Ainda nesta
+parte são discutidas questões clínicas bastante atuais, como síndrome de
+burnout, dependências tecnológicas, transtorno de jogos eletrônicos,
+dependência ou uso problemático de internet e cyberbullying.
+Encerrando este compêndio, a sétima parte inclui as relevantes
+subespecialidades de interconsulta psiquiátrica, Medicina Psiquiátrica de
+emergência e Psiquiatria Forense.
+Psiquiatria | Estudos Fundamentais continuará a ajudar o leitor a
+ampliar seu conhecimento não apenas sobre a abordagem clínica dos
+principais transtornos psiquiátricos, mas também sobre diversos temas
+interligados ao ser humano e ao seu comportamento.
+Desejo a todos boa e proveitosa leitura!
+Alexandrina Meleiro
+Outubro de 2023
+
+--- PAGE 55 ---
+Foi com grande entusiasmo e interesse que recebi a segunda edição do
+Psiquiatria | Estudos Fundamentais, obra já consagrada e que se revela
+agora ainda mais abrangente.
+Trazendo atualizações e inserções que confirmam a crescente
+evolução da Psiquiatria, essa ampliação reflete o alinhamento da
+professora Alexandrina Meleiro com as descobertas e os desafios que
+emergem da especialidade que ela abraçou. Como resultado, mantidos e
+atualizados os fundamentos que fizeram da primeira edição uma
+referência, foram agregados temas de vanguarda da Psiquiatria
+contemporânea.
+Entre as novidades, destaca-se a inclusão de novas seções no capítulo
+Psicoterapias, em que são apresentadas as diversas abordagens e escolas
+psicoterapêuticas, desde a terapia cognitivo-comportamental à
+psicoterapia psicanalítica, Eye movement desensitization and
+reprocessing (EMDR) e mindfulness. Na parte Exames e Diagnósticos, é
+novo o capítulo Farmacogenética na Psiquiatria.
+Valorizando a crescente conscientização da interconexão entre saúde
+mental e física, neste livro, a seção Medicina do Estilo de Vida em
+Psiquiatria explora o impacto das escolhas de vida sobre a saúde mental.
+Particularmente no contexto da obesidade e da cirurgia bariátrica, a
+exploração dessas complexas conexões foi bastante assertiva.
+
+--- PAGE 56 ---
+Aspectos do capítulo Tratamento Psicofarmacológico em Psiquiatria
+retornam atualizados, fornecendo conteúdo detalhado sobre
+psicofarmacologia e manejo de transtornos psiquiátricos, inclusive em
+situações especiais, como gravidez e lactação.
+Reconhecendo a relevância das questões de natureza social, foram
+adicionados capítulos sobre Violências Cometidas contra Pessoas
+Vulneráveis e A Relação entre Autolesão sem Intenção Suicida (ASIS) e
+Comportamento Suicida. Estratégias preventivas e educação no capítulo
+Prevenção ao Suicídio: Experiência do Centro de Valorização da Vida
+abrem espaço à reflexão sobre esse tema crítico e desafiador.
+Esta edição serve como fonte de inspiração para os profissionais de
+Saúde Mental, estimulando o interesse pelo conhecimento, a compaixão
+pelos que sofrem e o compromisso com a saúde mental do paciente.
+Sendo um verdadeiro tratado, ainda mais amplo e estruturado, se
+constituirá em uma bússola para médicos, estudantes de Psiquiatria e
+interessados na compreensão e nos avanços dessa área.
+Parabéns à professora Alexandrina pela coordenação e autoria e a
+todos os outros autores! Esta obra, mais que possibilitar a compreensão e
+o tratamento em Saúde Mental, encorajará o exercício profissional
+compassivo e personalizado.
+Boa leitura!
+Carmita H. N. Abdo
+Professora do Departamento de Psiquiatria da Faculdade de Medicina da Universidade de São
+Paulo. Presidente da Associação Brasileira de Psiquiatria (2017-2019).
+
+--- PAGE 57 ---
+Parte 1
+1
+2
+3
+4
+5
+Parte 2
+6
+7
+8
+9
+Aspectos Sociais e Genéticos
+Aspectos Históricos da Psiquiatria
+Walmor João Piccinini ■ Alexandrina Maria Augusto da Silva Meleiro
+Influência da Cultura na Doença Mental
+Luciana de Andrade Carvalho ■ Janaína Cruz ■ Francisco Lotufo Neto ■ Alexandrina
+Maria Augusto da Silva Meleiro
+Religião, Espiritualidade e Transtornos Mentais
+Alexander Moreira-Almeida ■ Victoria Alexandre Silva de Almeida
+Aspectos Genéticos em Psiquiatria
+Leandro Michelon ■ Humberto Correa ■ Gustavo Turecki ■ Homero Vallada
+Epidemiologia dos Transtornos Mentais
+Maria Carmen Viana ■ Débora Costa Sena Pereira ■ Rafael Bello Corassa
+Exames e Diagnóstico
+Diagnóstico e Classificação em Psiquiatria
+Frederico Navas Demetrio ■ Fernando Fernandes
+Análise Crítica da Classificação Diagnóstica em Psiquiatria
+Marcel V. Nunes ■ Marcelo Pinheiro Machado Adelino ■ Acioly Luiz Tavares de Lacerda
+Instrumentos de Avaliação em Psiquiatria
+Elaine Henna ■ Yuan-Pang Wang ■ Clarice Gorenstein
+Avaliação Neuropsicológica em Psiquiatria
+
+--- PAGE 58 ---
+10
+11
+12
+13
+14
+Parte 3
+15
+16
+17
+18
+19
+20
+21
+Ednéia de Paula ■ Pedro Fonseca Zuccolo
+Exames Laboratoriais em Psiquiatria
+Ricardo Barcelos-Ferreira ■ Sergio Tamai ■ Alexandrina Maria Augusta da Silva Meleiro
+Exames de Imagem em Psiquiatria
+Marcelo Camargo Batistuzzo ■ Marcelo Q. Hoexter
+Farmacogenética na Psiquiatria
+Michel Haddad ■ Luiz Dieckman
+Entrevista Clínica Psiquiátrica
+Renato Luiz Marchetti ■ José Gallucci Neto
+Psicopatologia do Exame Mental
+Rodrigo C. Marques ■ Catarina de Moraes Braga ■ Lorena Lins Interaminense
+Transtornos Psiquiátricos
+Síndromes Mentais ou Comportamentais Secundárias a
+Condições Médicas Gerais
+Vitor Almeida ■ José Edson O. Araújo Filho ■ Gustavo Carneiro Gomes Leal ■ Lucas de
+Castro Quarantini ■ Alexandrina Maria Augusto da Silva Meleiro
+Esquizofrenia e Outros Transtornos Psicóticos
+Antonio Peregrino ■ Luciana Valença Garcia ■ Rodrigo C. Marques ■ Alexandrina Maria
+Augusto da Silva Meleiro
+Transtorno Bipolar
+Raphael de O. Cerqueira ■ Juliana Surjan ■ André Fernandes Silva ■ Ângela Miranda
+Scippa ■ Alexandrina Maria Augusto da Silva Meleiro
+Transtorno Depressivo
+Nicolas Lauxen Konrad ■ Maicon Bonaldo Dias ■ Tássia Callai ■ Cassiano Lopes de
+Castro ■ Flavio Milman Shansis
+Transtornos de Ansiedade
+Alan Campos Luciano ■ Antonio E. Nardi ■ Márcio Bernik ■ Alexandrina Maria Augusto
+da Silva Meleiro
+Transtornos por Uso de Substâncias Psicoativas
+Ana Cecilia Petta Roselli Marques ■ Carla Bicca ■ Carlos Alberto Iglesias Salgado ■
+Alexandrina Maria Augusto da Silva Meleiro
+Transtorno de Sintomas Somáticos e Transtornos Relacionados
+Thiago Viegas Gomes Lins ■ José Gallucci Neto ■ Renato Luiz Marchetti
+
+--- PAGE 59 ---
+22
+23
+24
+25
+26
+27
+28
+29
+Parte 4
+30
+Transtorno Obsessivo-Compulsivo e Transtornos Relacionados
+João Felício Abrahão Neto ■ Ana Gabriela Hounie ■ Renata de Melo Felipe da Silva ■
+Daniel Lucas da Conceição Costa ■ Roseli Gedanke Shavitt
+Transtorno de Estresse Pós-Traumático
+Andrea Feijó Mello ■ Marcelo Feijó Mello ■ Nina Leão Marques Valente ■ José Paulo
+Fiks ■ Alexandrina Maria Augusta da Silva Meleiro
+Transtornos Alimentares
+Michele de Oliveira Gonzalez ■ Fabio Tapia Salzano ■ Táki Athanássios Cordás
+Sexualidade Humana e Disfunções Sexuais
+Carmita H. N. Abdo ■ João Afif Abdo
+Transtornos Parafílicos e Disforia de Gênero
+Daniel Augusto Mori Gagliotti ■ Desirèe Monteiro Cordeiro ■ Alexandre Saadeh
+Transtornos do Sono
+Almir Tavares ■ Anderson Sousa Martins-da-Silva ■ Regina Margis ■ Kalil Duailib ■
+Alexandrina Maria Augusto da Silva Meleiro
+Transtornos Dolorosos
+Luciana M. Sarin ■ Alexandrina Maria Augusto da Silva Meleiro
+Transtornos de Personalidade
+Alexandre Martins Valença ■ Valéria Barreto Novais ■ Alexandrina Maria Augusto da
+Silva Meleiro
+Tratamentos Psiquiátricos
+Psicoterapias
+Principais Escolas da Psicoterapia
+Miriam Gorender ■ Alexandrina Maria Augusto da Silva Meleiro
+Terapia Cognitivo-Comportamental
+Irismar Reis de Oliveira
+Psicoterapia Psicanalítica
+Luiz Carlos Mabilde
+Eye Movement Desensitization and Reprocessing (EMDR)
+Daniela Reis e Silva ■ Raquel Carvalho Hoersting ■ Jackeline Figueiredo Barbosa-Gomes
+Mindfulness
+David Wilson
+Medicina do Estilo de Vida em Psiquiatria
+
+--- PAGE 60 ---
+31
+32
+Parte 5
+33
+34
+35
+36
+37
+38
+Parte 6
+39
+40
+Arthur Hirschfeld Danila
+Tratamento Psicofarmacológico em Psiquiatria
+Psicofarmacologia e Principais Psicofármacos
+Eduardo Pondé de Sena ■ Tiago C. Ramacciotti ■ Fernanda S. Correia-Melo ■ Lucas
+Araújo-de-Freitas ■ Esdras Cabus Moreira ■ Alexandrina Maria Augusto da Silva Meleiro
+Manejo Farmacológico dos Transtornos Psiquiátricos na
+Gravidez e na Lactação
+Amaury Cantilino ■ Leonardo Machado ■ Juliana Parada ■ Gislene C. Valadares
+Tratamentos Biológicos em Psiquiatria
+Moacyr Rosa ■ Mercedes Alves ■ Andre Russowksy Brunoni
+Grupos de Pacientes Especiais
+Saúde Mental da Mulher
+Gislene C. Valadares ■ Christiane Ribeiro ■ Sarah Cristina Zanghellini Rückl ■ Isabela
+Maria Seabra Leite ■ Joel Rennó Júnior ■ Alexandrina Maria Augusto da Silva Meleiro
+Psiquiatria da Infância
+Francisco B. Assumpção Jr. ■ Evelyn Kuczynski
+Psiquiatria na Adolescência
+Miguel Angelo Boarati ■ Déo de Almeida Boarati ■ Ricardo Nogueira Krause ■ Jônia
+Lacerda Felício
+Psiquiatria Geriátrica
+Alberto Stoppe Junior ■ Mariana Franciosi Tatsch ■ Alexandrina Maria Augusto da Silva
+Meleiro
+Violências Cometidas contra Pessoas Vulneráveis
+Lisieux E. de Borba Telles ■ Alcina J. S. Barros ■ Bibiana de Borba Telles ■ Gabriela de
+Moraes Costa ■ Milena França
+O Médico como Paciente
+Alexandrina Maria Augusto da Silva Meleiro
+Questões Clínicas Importantes
+Síndrome de Burnout
+Letícia Mameri-Trés ■ Alexandrina Maria Augusto da Silva Meleiro ■ Rosylane N.
+Mercês Rocha
+Transtorno Factício e Simulação

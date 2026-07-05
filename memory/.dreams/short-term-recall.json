@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T22:21:19.066Z",
+  "updatedAt": "2026-07-04T16:22:46.183Z",
   "entries": {
     "memory:memory/2026-07-03.md:108:113": {
       "key": "memory:memory/2026-07-03.md:108:113",
@@ -160,6 +160,130 @@
         "completo",
         "tdah",
         "foi"
+      ]
+    },
+    "memory:memory/2026-07-04.md:22:34": {
+      "key": "memory:memory/2026-07-04.md:22:34",
+      "path": "memory/2026-07-04.md",
+      "startLine": 22,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "- Tema trabalhado: padrão “afastamento laboral → melhora clínica / iminência de retorno → reagudização sintomática” como marcador semiológico relevante para nexo/concausalidade ocupacional. - Linha técnica: usar critérios de Bradford Hill adaptados à saúde mental ocupacional, especialmente temporalidade, plausibilidade biológica, gradiente dose-resposta/exposição e reversibilidade. - Cautela redacional: evitar afirmar automaticamente nexo; preferir “marcador clínico-longitudinal de alta relevância”, “compatível com nexo ou concausalidade”, “integrar aos demais elementos dos autos”. - Documentos criados: - `content/drafts/bibliografia-nexo-saude-mental-trabalho.md` - `content/drafts/texto",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4086327672004699,
+      "maxScore": 0.4086327672004699,
+      "firstRecalledAt": "2026-07-04T16:22:46.183Z",
+      "lastRecalledAt": "2026-07-04T16:22:46.183Z",
+      "queryHashes": [
+        "2794092de8ca"
+      ],
+      "recallDays": [
+        "2026-07-04"
+      ],
+      "conceptTags": [
+        "nexo/concausalidade",
+        "dose-resposta/exposição",
+        "clínico-longitudinal",
+        "content/drafts/texto",
+        "tema",
+        "trabalhado",
+        "padrão",
+        "afastamento"
+      ]
+    },
+    "memory:memory/2026-07-03.md:227:236": {
+      "key": "memory:memory/2026-07-03.md:227:236",
+      "path": "memory/2026-07-03.md",
+      "startLine": 227,
+      "endLine": 236,
+      "source": "memory",
+      "snippet": "## Pós-compaction 2 — TDAH e psiquiatria forense - Henrique recebeu/salvou o livro `Psiquiatria Forense - Taborda.pdf` localmente em `content/references/psiquiatria-forense/Psiquiatria Forense - Taborda.pdf`; registro em `memory/inbox/2026-07-03-psiquiatria-forense-taborda.md`. Não enviar original ao GitHub; produzir somente material autoral/sintético/aplicado. - Foram criados materiais autorais do Taborda: `content/cursos/psiquiatria-forense-taborda/curso-robusto-psiquiatria-forense-taborda.md`, `materiais-praticos-pareceres.md`, `cronograma-10-semanas.md`, PDF `pdf/curso-robusto-psiquiatria-forense-taborda.pdf` e plano `memory/projects/psiquiatria-forense-taborda/PLAN.md`. - Curso Tabor",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3823993980884552,
+      "maxScore": 0.3823993980884552,
+      "firstRecalledAt": "2026-07-04T16:22:46.183Z",
+      "lastRecalledAt": "2026-07-04T16:22:46.183Z",
+      "queryHashes": [
+        "2794092de8ca"
+      ],
+      "recallDays": [
+        "2026-07-04"
+      ],
+      "conceptTags": [
+        "pós-compaction",
+        "recebeu/salvou",
+        "taborda.pdf",
+        "autoral/sintético/aplicado",
+        "materiais-praticos-pareceres.md",
+        "cronograma-10-semanas.md",
+        "pós",
+        "compaction"
+      ]
+    },
+    "memory:memory/2026-07-04.md:14:23": {
+      "key": "memory:memory/2026-07-04.md:14:23",
+      "path": "memory/2026-07-04.md",
+      "startLine": 14,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "- Diferenciais definidos: psiquiatra + médico do trabalho; burnout; sofrimento relacionado ao trabalho; NR-1 e riscos psicossociais; relatórios médicos estruturados quando solicitados/indicados; sanidade mental para concursos públicos conforme edital e avaliação clínica; segunda opinião; atendimento online Bahia. - Landing page atual em: `content/drafts/landing-page-dr-luis-psiquiatra/index.html`. - Backup da versão antiga: `content/drafts/landing-page-dr-luis-psiquiatra/index-v1-backup.html`. - Guia Google Ads em: `content/drafts/landing-page-dr-luis-psiquiatra/GUIA-GOOGLE-ADS.md`. - Palavras negativas importantes para Google Ads: SUS, psiquiatra SUS, consulta grátis/gratuita, convênio, pla",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37642335593700404,
+      "maxScore": 0.37642335593700404,
+      "firstRecalledAt": "2026-07-04T16:22:46.183Z",
+      "lastRecalledAt": "2026-07-04T16:22:46.183Z",
+      "queryHashes": [
+        "2794092de8ca"
+      ],
+      "recallDays": [
+        "2026-07-04"
+      ],
+      "conceptTags": [
+        "backup",
+        "nr-1",
+        "solicitados/indicados",
+        "grátis/gratuita",
+        "diferenciais",
+        "definidos",
+        "psiquiatra",
+        "médico"
+      ]
+    },
+    "memory:memory/2026-07-04.md:30:37": {
+      "key": "memory:memory/2026-07-04.md:30:37",
+      "path": "memory/2026-07-04.md",
+      "startLine": 30,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "- Referências-chave usadas: Hill 1965; Verbeek 2012; artigo de causalidade em medicina ocupacional/medico-legal; WHO Mental health at work; WHO Burn-out occupational phenomenon; EU-OSHA retorno ao trabalho; revisão de intervenções work-directed em transtornos mentais comuns; Aronsson et al. 2017 BMC Public Health sobre ambiente de trabalho e burnout; Herman et al. 2016 eixo HPA; MTE/NR-1 riscos psicossociais. ## Bradford Hill - Henrique enviou PDF do artigo original de Bradford Hill: “The Environment and Disease: Association or Causation?” Proc R Soc Med. 1965;58:295-300. - Foi extraído texto para: `content/drafts/bradford-hill-artigo-original-extraido.txt`. - Foi criada tradução livre para",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3723241508007049,
+      "maxScore": 0.3723241508007049,
+      "firstRecalledAt": "2026-07-04T16:22:46.183Z",
+      "lastRecalledAt": "2026-07-04T16:22:46.183Z",
+      "queryHashes": [
+        "2794092de8ca"
+      ],
+      "recallDays": [
+        "2026-07-04"
+      ],
+      "conceptTags": [
+        "referências-chave",
+        "ocupacional/medico-legal",
+        "burn-out",
+        "eu-osha",
+        "work-directed",
+        "mte/nr-1",
+        "295-300",
+        "referências"
       ]
     }
   }
