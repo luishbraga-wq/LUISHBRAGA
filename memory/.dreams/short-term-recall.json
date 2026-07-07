@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T16:22:46.183Z",
+  "updatedAt": "2026-07-07T00:09:52.638Z",
   "entries": {
     "memory:memory/2026-07-03.md:108:113": {
       "key": "memory:memory/2026-07-03.md:108:113",
@@ -231,18 +231,20 @@
       "endLine": 23,
       "source": "memory",
       "snippet": "- Diferenciais definidos: psiquiatra + médico do trabalho; burnout; sofrimento relacionado ao trabalho; NR-1 e riscos psicossociais; relatórios médicos estruturados quando solicitados/indicados; sanidade mental para concursos públicos conforme edital e avaliação clínica; segunda opinião; atendimento online Bahia. - Landing page atual em: `content/drafts/landing-page-dr-luis-psiquiatra/index.html`. - Backup da versão antiga: `content/drafts/landing-page-dr-luis-psiquiatra/index-v1-backup.html`. - Guia Google Ads em: `content/drafts/landing-page-dr-luis-psiquiatra/GUIA-GOOGLE-ADS.md`. - Palavras negativas importantes para Google Ads: SUS, psiquiatra SUS, consulta grátis/gratuita, convênio, pla",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.37642335593700404,
-      "maxScore": 0.37642335593700404,
+      "totalScore": 0.802906623482704,
+      "maxScore": 0.42648326754570004,
       "firstRecalledAt": "2026-07-04T16:22:46.183Z",
-      "lastRecalledAt": "2026-07-04T16:22:46.183Z",
+      "lastRecalledAt": "2026-07-07T00:09:52.638Z",
       "queryHashes": [
-        "2794092de8ca"
+        "2794092de8ca",
+        "c7816ecacb79"
       ],
       "recallDays": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-07"
       ],
       "conceptTags": [
         "backup",
@@ -284,6 +286,37 @@
         "mte/nr-1",
         "295-300",
         "referências"
+      ]
+    },
+    "memory:memory/2026-07-04.md:1:17": {
+      "key": "memory:memory/2026-07-04.md:1:17",
+      "path": "memory/2026-07-04.md",
+      "startLine": 1,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "# Memória — 2026-07-04 ## Landing page — Dr. Luís Henrique Braga Gomes - Projeto ativo: landing page para captação de pacientes particulares de psiquiatria em Salvador/Bahia. - Domínio comprado: `luisbragapsiquiatra.com.br`. - WhatsApp público informado: `71 99611-9397`. - Atendimento: presencial e online. - Endereço informado: Avenida Reitor Miguel Calmon, nº 1210, Edifício Centro Médico do Vale, sala 501, Salvador/BA. - Identificação profissional: Dr. Luís Henrique Braga Gomes; CRM-BA 15244; RQE Psiquiatria 12945; RQE Medicina do Trabalho 7536; membro titular ABP nº 11.279. - Valor de consulta: não divulgar; usar “consultar no agendamento”. - Foto profissional: será colocada depois. - Ate",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.46215896308422083,
+      "maxScore": 0.46215896308422083,
+      "firstRecalledAt": "2026-07-07T00:09:52.638Z",
+      "lastRecalledAt": "2026-07-07T00:09:52.638Z",
+      "queryHashes": [
+        "c7816ecacb79"
+      ],
+      "recallDays": [
+        "2026-07-07"
+      ],
+      "conceptTags": [
+        "salvador/bahia",
+        "luisbragapsiquiatra.com.br",
+        "99611-9397",
+        "salvador/ba",
+        "crm-ba",
+        "11.279",
+        "memória",
+        "landing"
       ]
     }
   }

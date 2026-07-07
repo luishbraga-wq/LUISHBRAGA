@@ -1,12 +1,14 @@
 # Landing page + Google Ads — Dr. Luís Henrique Braga Gomes
 
 ## 1. Arquivos criados
-- `index.html`: landing page pronta em HTML/CSS.
+- `index.html`: landing page pronta em HTML/CSS, com formulário abrindo WhatsApp já preenchido.
+- `obrigado.html`: página de agradecimento para uso em conversões futuras.
+- `privacidade.html`: política de privacidade básica linkada no rodapé.
 - Substituir antes de publicar:
   - WhatsApp já configurado: `5571996119397`.
   - Domínio definido: `https://luisbragapsiquiatra.com.br`.
-  - `GTM-XXXXXXX` pelo ID do Google Tag Manager.
-  - foto profissional e mapa.
+  - foto profissional quando disponível.
+  - GTM/GA4 quando os IDs forem criados.
 
 ## 2. Cuidados de publicidade médica
 - Manter nome, CRM e RQE visíveis.

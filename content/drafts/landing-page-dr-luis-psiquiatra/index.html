@@ -210,7 +210,7 @@
     <section id="agendamento">
       <div class="wrap cta-band">
         <div><h2>Solicite seu agendamento</h2><p>Envie uma mensagem pelo WhatsApp ou preencha o formulário. O retorno será feito para informar disponibilidade, modalidade e orientações iniciais.</p><div class="actions"><a class="btn gold" href="https://wa.me/5571996119397?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta%20particular%20com%20o%20Dr.%20Lu%C3%ADs%20Braga.">Chamar no WhatsApp</a></div><p class="fine" style="color:#d9e7e4">Em emergência, risco de autoagressão ou agravamento súbito, procure serviço de emergência, SAMU 192 ou unidade hospitalar.</p></div>
-        <form class="form" name="lead-psiquiatria" method="post" action="/obrigado.html"><label for="nome">Nome</label><input id="nome" name="nome" autocomplete="name" required><label for="telefone">WhatsApp</label><input id="telefone" name="telefone" autocomplete="tel" required><label for="cidade">Cidade</label><input id="cidade" name="cidade" placeholder="Ex.: Salvador, Lauro de Freitas, Feira de Santana" required><label for="interesse">Motivo principal</label><select id="interesse" name="interesse"><option>Primeira consulta</option><option>Retorno/acompanhamento</option><option>Segunda opinião</option><option>Outro</option></select><label for="mensagem">Mensagem opcional</label><textarea id="mensagem" name="mensagem" placeholder="Não envie informações urgentes por este formulário."></textarea><button class="btn" type="submit" style="width:100%">Enviar solicitação</button><p class="fine">Ao enviar, você concorda em ser contatado para fins de agendamento. Não compartilhe urgências por este formulário.</p></form>
+        <form class="form" id="lead-form" name="lead-psiquiatria"><label for="nome">Nome</label><input id="nome" name="nome" autocomplete="name" required><label for="telefone">WhatsApp</label><input id="telefone" name="telefone" autocomplete="tel" required><label for="cidade">Cidade</label><input id="cidade" name="cidade" placeholder="Ex.: Salvador, Lauro de Freitas, Feira de Santana" required><label for="interesse">Motivo principal</label><select id="interesse" name="interesse"><option>Primeira consulta</option><option>Retorno/acompanhamento</option><option>Segunda opinião</option><option>Outro</option></select><label for="mensagem">Mensagem opcional</label><textarea id="mensagem" name="mensagem" placeholder="Não envie informações urgentes por este formulário."></textarea><button class="btn" type="submit" style="width:100%">Enviar solicitação pelo WhatsApp</button><p class="fine">Ao enviar, o WhatsApp será aberto com os dados preenchidos para agendamento. Não compartilhe urgências por este formulário.</p></form>
       </div>
     </section>
 
@@ -263,6 +263,27 @@
   </main>
 
   <div class="sticky-cta"><a class="btn gold" href="https://wa.me/5571996119397?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20consulta%20psiqui%C3%A1trica%20particular.">Agendar pelo WhatsApp</a></div>
-  <footer><div class="wrap"><strong>Dr. Luís Henrique Braga Gomes</strong><br>Médico Psiquiatra · CRM-BA 15244 · RQE Psiquiatria 12945<br>Médico do Trabalho · RQE Medicina do Trabalho 7536<br>Membro titular da Associação Brasileira de Psiquiatria — ABP nº 11.279<br>Avenida Reitor Miguel Calmon, 1210, Edifício Centro Médico do Vale, sala 501 · Salvador/BA<br><small>Conteúdo informativo. Sem promessa de resultado. Publicidade médica com identificação profissional obrigatória.</small></div></footer>
+  <footer><div class="wrap"><strong>Dr. Luís Henrique Braga Gomes</strong><br>Médico Psiquiatra · CRM-BA 15244 · RQE Psiquiatria 12945<br>Médico do Trabalho · RQE Medicina do Trabalho 7536<br>Membro titular da Associação Brasileira de Psiquiatria — ABP nº 11.279<br>Avenida Reitor Miguel Calmon, 1210, Edifício Centro Médico do Vale, sala 501 · Salvador/BA<br><small>Conteúdo informativo. Sem promessa de resultado. Publicidade médica com identificação profissional obrigatória. <a href="/privacidade.html" style="color:#dce9e6;text-decoration:underline">Política de privacidade</a>.</small></div></footer>
+
+  <script>
+    (function(){
+      var form = document.getElementById('lead-form');
+      if(!form) return;
+      form.addEventListener('submit', function(event){
+        event.preventDefault();
+        var data = new FormData(form);
+        var texto = [
+          'Olá, gostaria de agendar uma consulta particular com o Dr. Luís Braga.',
+          '',
+          'Nome: ' + (data.get('nome') || ''),
+          'WhatsApp: ' + (data.get('telefone') || ''),
+          'Cidade: ' + (data.get('cidade') || ''),
+          'Motivo principal: ' + (data.get('interesse') || ''),
+          'Mensagem: ' + (data.get('mensagem') || 'Não informado')
+        ].join('\n');
+        window.location.href = 'https://wa.me/5571996119397?text=' + encodeURIComponent(texto);
+      });
+    })();
+  </script>
 </body>
 </html>
