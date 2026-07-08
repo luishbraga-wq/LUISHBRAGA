@@ -6,3 +6,10 @@
 *.pem
 *-credentials.json
 .tmp-*
+secrets.json
+*secrets*.json
+*secret*.json
+credentials.json
+*credentials*.json
+*.p12
+*.pfx
